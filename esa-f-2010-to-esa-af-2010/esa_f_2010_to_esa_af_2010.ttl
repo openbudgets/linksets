@@ -1,0 +1,117 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.1>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.1> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.11>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.11> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.12>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.12> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.2>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.2> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.21>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.21> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.22>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.22> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.221>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.221> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.229>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.229> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.29>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.29> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.3>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.3> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.31>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.31> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.32>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.32> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.4>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.4> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.41>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.41> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.42>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.42> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.5>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.5> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.51>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.51> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.511>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.511> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.512>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.512> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.519>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.519> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.52>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.52> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.521>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.521> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.522>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.522> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.6>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.6> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.61>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.61> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.62>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.62> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.63>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.63> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.64>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.64> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.65>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.65> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.66>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.66> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.7>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.7> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.71>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.71> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.72>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.72> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.8>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.8> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.81>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.81> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/AF.89>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.89> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/F.711>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.711> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets/F.712>
+    skos:exactMatch <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.712> .
+
