@@ -1,0 +1,320 @@
+
+<http://publications.europa.eu/resource/authority/currency/AED> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/AED> .
+
+<http://publications.europa.eu/resource/authority/currency/AFN> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/AFN> .
+
+<http://publications.europa.eu/resource/authority/currency/ALL> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/ALL> .
+
+<http://publications.europa.eu/resource/authority/currency/AMD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/AMD> .
+
+<http://publications.europa.eu/resource/authority/currency/ANG> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/ANG> .
+
+<http://publications.europa.eu/resource/authority/currency/AOA> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/AOA> .
+
+<http://publications.europa.eu/resource/authority/currency/ARS> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/ARS> .
+
+<http://publications.europa.eu/resource/authority/currency/AUD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/AUD> .
+
+<http://publications.europa.eu/resource/authority/currency/AWG> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/AWG> .
+
+<http://publications.europa.eu/resource/authority/currency/AZN> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/AZN> .
+
+<http://publications.europa.eu/resource/authority/currency/BAM> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/BAM> .
+
+<http://publications.europa.eu/resource/authority/currency/BBD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/BBD> .
+
+<http://publications.europa.eu/resource/authority/currency/BDT> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/BDT> .
+
+<http://publications.europa.eu/resource/authority/currency/BGN> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/BGN> .
+
+<http://publications.europa.eu/resource/authority/currency/BHD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/BHD> .
+
+<http://publications.europa.eu/resource/authority/currency/BIF> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/BIF> .
+
+<http://publications.europa.eu/resource/authority/currency/BMD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/BMD> .
+
+<http://publications.europa.eu/resource/authority/currency/BND> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/BND> .
+
+<http://publications.europa.eu/resource/authority/currency/BOB> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/BOB> .
+
+<http://publications.europa.eu/resource/authority/currency/BRL> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/BRL> .
+
+<http://publications.europa.eu/resource/authority/currency/BSD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/BSD> .
+
+<http://publications.europa.eu/resource/authority/currency/BTN> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/BTN> .
+
+<http://publications.europa.eu/resource/authority/currency/BWP> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/BWP> .
+
+<http://publications.europa.eu/resource/authority/currency/BYR> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/BYR> .
+
+<http://publications.europa.eu/resource/authority/currency/BZD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/BZD> .
+
+<http://publications.europa.eu/resource/authority/currency/CAD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/CAD> .
+
+<http://publications.europa.eu/resource/authority/currency/CDF> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/CDF> .
+
+<http://publications.europa.eu/resource/authority/currency/CHF> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/CHF> .
+
+<http://publications.europa.eu/resource/authority/currency/CLP> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/CLP> .
+
+<http://publications.europa.eu/resource/authority/currency/CNY> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/CNY> .
+
+<http://publications.europa.eu/resource/authority/currency/COP> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/COP> .
+
+<http://publications.europa.eu/resource/authority/currency/CRC> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/CRC> .
+
+<http://publications.europa.eu/resource/authority/currency/CUC> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/CUC> .
+
+<http://publications.europa.eu/resource/authority/currency/CUP> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/CUP> .
+
+<http://publications.europa.eu/resource/authority/currency/CVE> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/CVE> .
+
+<http://publications.europa.eu/resource/authority/currency/CZK> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/CZK> .
+
+<http://publications.europa.eu/resource/authority/currency/DJF> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/DJF> .
+
+<http://publications.europa.eu/resource/authority/currency/DKK> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/DKK> .
+
+<http://publications.europa.eu/resource/authority/currency/DOP> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/DOP> .
+
+<http://publications.europa.eu/resource/authority/currency/DZD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/DZD> .
+
+<http://publications.europa.eu/resource/authority/currency/EGP> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/EGP> .
+
+<http://publications.europa.eu/resource/authority/currency/ERN> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/ERN> .
+
+<http://publications.europa.eu/resource/authority/currency/ETB> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/ETB> .
+
+<http://publications.europa.eu/resource/authority/currency/EUR> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/EUR> .
+
+<http://publications.europa.eu/resource/authority/currency/FJD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/FJD> .
+
+<http://publications.europa.eu/resource/authority/currency/FKP> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/FKP> .
+
+<http://publications.europa.eu/resource/authority/currency/GBP> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/GBP> .
+
+<http://publications.europa.eu/resource/authority/currency/GEL> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/GEL> .
+
+<http://publications.europa.eu/resource/authority/currency/GHS> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/GHS> .
+
+<http://publications.europa.eu/resource/authority/currency/GIP> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/GIP> .
+
+<http://publications.europa.eu/resource/authority/currency/GMD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/GMD> .
+
+<http://publications.europa.eu/resource/authority/currency/GNF> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/GNF> .
+
+<http://publications.europa.eu/resource/authority/currency/GTQ> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/GTQ> .
+
+<http://publications.europa.eu/resource/authority/currency/GYD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/GYD> .
+
+<http://publications.europa.eu/resource/authority/currency/HKD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/HKD> .
+
+<http://publications.europa.eu/resource/authority/currency/HNL> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/HNL> .
+
+<http://publications.europa.eu/resource/authority/currency/HRK> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/HRK> .
+
+<http://publications.europa.eu/resource/authority/currency/HTG> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/HTG> .
+
+<http://publications.europa.eu/resource/authority/currency/HUF> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/HUF> .
+
+<http://publications.europa.eu/resource/authority/currency/IDR> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/IDR> .
+
+<http://publications.europa.eu/resource/authority/currency/ILS> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/ILS> .
+
+<http://publications.europa.eu/resource/authority/currency/INR> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/INR> .
+
+<http://publications.europa.eu/resource/authority/currency/IQD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/IQD> .
+
+<http://publications.europa.eu/resource/authority/currency/IRR> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/IRR> .
+
+<http://publications.europa.eu/resource/authority/currency/ISK> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/ISK> .
+
+<http://publications.europa.eu/resource/authority/currency/JMD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/JMD> .
+
+<http://publications.europa.eu/resource/authority/currency/JOD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/JOD> .
+
+<http://publications.europa.eu/resource/authority/currency/JPY> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/JPY> .
+
+<http://publications.europa.eu/resource/authority/currency/KES> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/KES> .
+
+<http://publications.europa.eu/resource/authority/currency/KGS> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/KGS> .
+
+<http://publications.europa.eu/resource/authority/currency/KHR> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/KHR> .
+
+<http://publications.europa.eu/resource/authority/currency/KMF> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/KMF> .
+
+<http://publications.europa.eu/resource/authority/currency/KPW> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/KPW> .
+
+<http://publications.europa.eu/resource/authority/currency/KRW> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/KRW> .
+
+<http://publications.europa.eu/resource/authority/currency/KWD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/KWD> .
+
+<http://publications.europa.eu/resource/authority/currency/KYD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/KYD> .
+
+<http://publications.europa.eu/resource/authority/currency/KZT> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/KZT> .
+
+<http://publications.europa.eu/resource/authority/currency/LAK> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/LAK> .
+
+<http://publications.europa.eu/resource/authority/currency/LBP> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/LBP> .
+
+<http://publications.europa.eu/resource/authority/currency/LKR> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/LKR> .
+
+<http://publications.europa.eu/resource/authority/currency/LRD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/LRD> .
+
+<http://publications.europa.eu/resource/authority/currency/LSL> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/LSL> .
+
+<http://publications.europa.eu/resource/authority/currency/LYD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/LYD> .
+
+<http://publications.europa.eu/resource/authority/currency/MAD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/MAD> .
+
+<http://publications.europa.eu/resource/authority/currency/MDL> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/MDL> .
+
+<http://publications.europa.eu/resource/authority/currency/MGA> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/MGA> .
+
+<http://publications.europa.eu/resource/authority/currency/MKD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/MKD> .
+
+<http://publications.europa.eu/resource/authority/currency/MMK> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/MMK> .
+
+<http://publications.europa.eu/resource/authority/currency/MNT> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/MNT> .
+
+<http://publications.europa.eu/resource/authority/currency/MOP> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/MOP> .
+
+<http://publications.europa.eu/resource/authority/currency/MRO> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/MRO> .
+
+<http://publications.europa.eu/resource/authority/currency/MUR> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/MUR> .
+
+<http://publications.europa.eu/resource/authority/currency/MVR> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/MVR> .
+
+<http://publications.europa.eu/resource/authority/currency/MWK> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/MWK> .
+
+<http://publications.europa.eu/resource/authority/currency/MXN> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/MXN> .
+
+<http://publications.europa.eu/resource/authority/currency/MYR> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/MYR> .
+
+<http://publications.europa.eu/resource/authority/currency/MZN> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/MZN> .
+
+<http://publications.europa.eu/resource/authority/currency/NAD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/NAD> .
+
+<http://publications.europa.eu/resource/authority/currency/NGN> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/NGN> .
+
+<http://publications.europa.eu/resource/authority/currency/NIO> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/NIO> .
+
+<http://publications.europa.eu/resource/authority/currency/NOK> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/NOK> .
+
+<http://publications.europa.eu/resource/authority/currency/NPR> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/NPR> .
+
+<http://publications.europa.eu/resource/authority/currency/NZD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/NZD> .
+
+<http://publications.europa.eu/resource/authority/currency/OMR> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/OMR> .
+
+<http://publications.europa.eu/resource/authority/currency/PAB> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/PAB> .
+
+<http://publications.europa.eu/resource/authority/currency/PEN> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/PEN> .
+
+<http://publications.europa.eu/resource/authority/currency/PGK> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/PGK> .
+
+<http://publications.europa.eu/resource/authority/currency/PHP> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/PHP> .
+
+<http://publications.europa.eu/resource/authority/currency/PKR> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/PKR> .
+
+<http://publications.europa.eu/resource/authority/currency/PLN> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/PLN> .
+
+<http://publications.europa.eu/resource/authority/currency/PYG> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/PYG> .
+
+<http://publications.europa.eu/resource/authority/currency/QAR> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/QAR> .
+
+<http://publications.europa.eu/resource/authority/currency/RON> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/RON> .
+
+<http://publications.europa.eu/resource/authority/currency/RSD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/RSD> .
+
+<http://publications.europa.eu/resource/authority/currency/RUB> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/RUB> .
+
+<http://publications.europa.eu/resource/authority/currency/RWF> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/RWF> .
+
+<http://publications.europa.eu/resource/authority/currency/SAR> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/SAR> .
+
+<http://publications.europa.eu/resource/authority/currency/SBD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/SBD> .
+
+<http://publications.europa.eu/resource/authority/currency/SCR> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/SCR> .
+
+<http://publications.europa.eu/resource/authority/currency/SDG> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/SDG> .
+
+<http://publications.europa.eu/resource/authority/currency/SEK> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/SEK> .
+
+<http://publications.europa.eu/resource/authority/currency/SGD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/SGD> .
+
+<http://publications.europa.eu/resource/authority/currency/SHP> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/SHP> .
+
+<http://publications.europa.eu/resource/authority/currency/SLL> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/SLL> .
+
+<http://publications.europa.eu/resource/authority/currency/SOS> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/SOS> .
+
+<http://publications.europa.eu/resource/authority/currency/SRD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/SRD> .
+
+<http://publications.europa.eu/resource/authority/currency/SSP> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/SSP> .
+
+<http://publications.europa.eu/resource/authority/currency/STD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/STD> .
+
+<http://publications.europa.eu/resource/authority/currency/SVC> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/SVC> .
+
+<http://publications.europa.eu/resource/authority/currency/SYP> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/SYP> .
+
+<http://publications.europa.eu/resource/authority/currency/SZL> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/SZL> .
+
+<http://publications.europa.eu/resource/authority/currency/THB> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/THB> .
+
+<http://publications.europa.eu/resource/authority/currency/TJS> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/TJS> .
+
+<http://publications.europa.eu/resource/authority/currency/TMT> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/TMT> .
+
+<http://publications.europa.eu/resource/authority/currency/TND> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/TND> .
+
+<http://publications.europa.eu/resource/authority/currency/TOP> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/TOP> .
+
+<http://publications.europa.eu/resource/authority/currency/TRY> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/TRY> .
+
+<http://publications.europa.eu/resource/authority/currency/TTD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/TTD> .
+
+<http://publications.europa.eu/resource/authority/currency/TWD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/TWD> .
+
+<http://publications.europa.eu/resource/authority/currency/TZS> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/TZS> .
+
+<http://publications.europa.eu/resource/authority/currency/UAH> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/UAH> .
+
+<http://publications.europa.eu/resource/authority/currency/UGX> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/UGX> .
+
+<http://publications.europa.eu/resource/authority/currency/USD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/USD> .
+
+<http://publications.europa.eu/resource/authority/currency/USN> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/USN> .
+
+<http://publications.europa.eu/resource/authority/currency/UYU> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/UYU> .
+
+<http://publications.europa.eu/resource/authority/currency/UZS> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/UZS> .
+
+<http://publications.europa.eu/resource/authority/currency/VEF> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/VEF> .
+
+<http://publications.europa.eu/resource/authority/currency/VND> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/VND> .
+
+<http://publications.europa.eu/resource/authority/currency/VUV> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/VUV> .
+
+<http://publications.europa.eu/resource/authority/currency/WST> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/WST> .
+
+<http://publications.europa.eu/resource/authority/currency/XAF> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/XAF> .
+
+<http://publications.europa.eu/resource/authority/currency/XCD> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/XCD> .
+
+<http://publications.europa.eu/resource/authority/currency/XOF> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/XOF> .
+
+<http://publications.europa.eu/resource/authority/currency/XPF> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/XPF> .
+
+<http://publications.europa.eu/resource/authority/currency/XTS> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/XTS> .
+
+<http://publications.europa.eu/resource/authority/currency/XXX> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/XXX> .
+
+<http://publications.europa.eu/resource/authority/currency/YER> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/YER> .
+
+<http://publications.europa.eu/resource/authority/currency/ZAR> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/ZAR> .
+
+<http://publications.europa.eu/resource/authority/currency/ZMW> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/ZMW> .
+
+<http://publications.europa.eu/resource/authority/currency/ZWL> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.openbudgets.eu/codelist/currency/ZWL> .

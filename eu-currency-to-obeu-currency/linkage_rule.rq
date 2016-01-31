@@ -1,0 +1,12 @@
+PREFIX at:   <http://publications.europa.eu/ontology/authority/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+CONSTRUCT {
+  ?euCurrency skos:exactMatch ?obeuCurrency .
+}
+WHERE {
+  ?euCurrency skos:inScheme <http://publications.europa.eu/resource/authority/currency> ;
+    at:authority-code ?notation .
+  ?obeuCurrency skos:inScheme <http://data.openbudgets.eu/resource/codelist/currency> ;
+    skos:notation ?notation .
+}
