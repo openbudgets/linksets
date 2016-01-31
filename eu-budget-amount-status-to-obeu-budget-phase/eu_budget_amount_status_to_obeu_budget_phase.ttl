@@ -6,4 +6,6 @@ eu-budget-status:ADOPTED skos:broadMatch obeu-budgetphase:approved .
 
 eu-budget-status:AMENDED skos:broadMatch obeu-budgetphase:revised .
 
+eu-budget-status:OP_DATPRO skos:broadMatch obeu-budgetphase:draft .
+
 eu-budget-status:OUTTURN skos:broadMatch obeu-budgetphase:executed .
