@@ -1,0 +1,9 @@
+@prefix eu-budget-status: <http://publications.europa.eu/resource/authority/eu-budget-amount-status/> .
+@prefix obeu-budgetphase: <http://data.openbudgets.eu/resource/codelist/budget-phase/> .
+@prefix skos:             <http://www.w3.org/2004/02/skos/core#> .
+
+eu-budget-status:ADOPTED skos:broadMatch obeu-budgetphase:approved .
+
+eu-budget-status:AMENDED skos:broadMatch obeu-budgetphase:revised .
+
+eu-budget-status:OUTTURN skos:broadMatch obeu-budgetphase:executed .
