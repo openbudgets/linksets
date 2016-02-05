@@ -1,0 +1,12 @@
+PREFIX ramon: <http://rdfdata.eionet.europa.eu/ramon/ontology/>
+PREFIX skos:  <http://www.w3.org/2004/02/skos/core#>
+
+CONSTRUCT {
+  ?source skos:exactMatch ?target .
+}
+WHERE {
+  ?target a ramon:NUTSRegion ;
+    ramon:code ?code .
+  ?source a skos:Concept ;
+    skos:notation ?code .
+}
