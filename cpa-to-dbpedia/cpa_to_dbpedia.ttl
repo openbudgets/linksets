@@ -1,0 +1,764 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.11.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Wheat> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.11.11>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Durum_wheat> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.11.2>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Maize_(album)> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.11.20>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Maize_(album)> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.11.31>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Barley_(disambiguation)> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.11.32>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Rye> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.11.33>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Oats> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.11.41>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Sorghum> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.11.42>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Millet> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.11.43>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Triticale> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.11.76>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Cow_peas> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.11.81>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Soya_beans> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.11.92>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Mustard_seed> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.11.94>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Sesame_seed> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.11.95>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Sunflower_seed> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.13.11>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Asparagus> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.13.12>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Cabbages> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.13.14>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Lettuce> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.13.15>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Chicory> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.13.16>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Spinach> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.13.17>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Artichokes> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.13.2>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Melons> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.13.21>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Watermelons> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.13.34>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Tomatoes> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.13.42>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Garlic> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.13.43>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Onions> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.13.51>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Potatoes> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.13.52>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Sweet_potatoes> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.13.53>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Cassava> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.13.54>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Taro> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.13.71>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Sugar_beet> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.14>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Sugar_Cane> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.14.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Sugar_Cane> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.14.10>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Sugar_Cane> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.19.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Forage_crops> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.19.10>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Forage_crops> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.21>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Grapes> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.21.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Grapes> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.21.11>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Table_grapes> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.22.11>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Avocados> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.22.13>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Dates> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.22.14>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/FIGS> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.23>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Citrus_fruits> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.23.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Citrus_fruits> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.23.12>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Lemons_and_Limes> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.23.13>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Oranges_(film)> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.24.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Apples_(in_Stereo)> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.24.10>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Apples_(in_Stereo)> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.24.21>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Pears> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.24.22>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Quinces> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.24.23>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Apricots> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.24.24>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Cherries> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.24.25>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Peaches_(The_Stranglers_song)> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.24.26>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Nectarines> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.24.27>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Plums> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.24.28>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Sloes> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.25.11>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Kiwi_fruit> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.25.12>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Raspberries_(band)> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.25.13>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Strawberries_(album)> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.25.31>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Almonds> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.25.32>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Chestnuts> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.25.33>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Hazelnuts> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.25.34>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Pistachios> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.25.35>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Walnuts> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.26.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Olives> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.26.2>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Coconuts> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.26.20>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Coconuts> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.27.12>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Tea_leaves> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.27.14>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Cocoa_beans> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.29.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Natural_rubber> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/01.29.10>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Natural_rubber> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/05.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Hard_coal> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/05.10>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Hard_coal> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/05.10.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Hard_coal> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/05.10.10>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Hard_coal> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/05.2>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Lignite> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/05.20>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Lignite> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/05.20.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Lignite> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/05.20.10>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Lignite> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/06.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Crude_petroleum> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/06.10>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Crude_petroleum> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/07.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Iron_ores> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/07.10>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Iron_ores> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/07.10.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Iron_ores> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/07.10.10>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Iron_ores> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/08.11.4>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Slate> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/08.11.40>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Slate> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/08.92>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Peat> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/08.92.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Peat> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/08.92.10>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Peat> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/10>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Food_products> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/10.32.11>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Tomato_juice> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/10.32.12>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Orange_juice> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/10.32.13>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Grapefruit_juice> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/10.32.14>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Pineapple_juice> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/10.32.15>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Grape_juice> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/10.32.16>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Apple_juice> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/10.5>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Dairy_products> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/10.51.53>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Casein> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/10.51.55>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Whey> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/10.52>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Ice_cream> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/10.62.14>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Maize_oil> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/10.73.12>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Couscous> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/10.81>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Sugar> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/10.81.14>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Molasses> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/11>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Beverages> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/11.0>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Beverages> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/11.05>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Beer> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/11.06>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Malt> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/11.06.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Malt> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/11.06.10>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Malt> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/12>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Tobacco_products> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/12.0>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Tobacco_products> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/12.00>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Tobacco_products> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/13>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Textiles> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/14.12>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Workwear> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/14.14>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Underwear> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/14.19.4>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Hats_and_headgear> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/15.11.21>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Chamois_leather> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/15.2>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Footwear> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/15.20>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Footwear> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/16.21.12>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Particle_board> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/17.11>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Pulp_(band)> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/17.12.3>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Containerboard> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/17.24>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Wallpaper> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/17.24.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Wallpaper> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/19.20.22>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Aviation_spirit> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/19.20.23>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/White_spirit> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/19.20.25>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Naphtha> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.11>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Industrial_gases> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.11.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Industrial_gases> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.13.21>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Metalloids> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.13.43>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Carbonates> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.13.63>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Hydrogen_peroxide> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.14.12>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Cyclic_hydrocarbons> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.15.31>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Urea> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.15.32>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Ammonium_sulphate> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.15.33>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Ammonium_nitrate> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.15.6>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Sodium_nitrate> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.15.60>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Sodium_nitrate> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.15.73>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Monoammonium_phosphate> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.20.11>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Insecticides> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.20.12>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Herbicides> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.20.14>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Disinfectants> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.20.15>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Fungicides> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.30.24>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Printing_ink> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.41.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Glycerol> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.41.10>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Glycerol> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.51>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Explosives> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.51.13>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Fireworks> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.51.2>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Matches> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.51.20>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Matches> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.52>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Glues> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.52.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Glues> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.52.10>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Glues> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.53>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Essential_oils> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.53.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Essential_oils> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.53.10>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Essential_oils> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.59.54>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Activated_carbon> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.59.58>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Biodiesel> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.6>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Man-Made_Fibres> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/20.60>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Man-Made_Fibres> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/21.10.32>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Sulphonamides> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/21.10.54>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Antibiotics> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/21.20.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Medicaments> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/23.11>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Flat_glass> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/23.11.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Flat_glass> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/23.12.12>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Safety_glass> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/23.51>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Cement> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/23.51.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Cement> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/23.52.2>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Plaster> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/23.52.20>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Plaster> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/23.64>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Mortars> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/23.64.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Mortars> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/23.64.10>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Mortars> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/23.65>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Fibre_cement> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/24.10.12>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Ferro-Alloys> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/24.10.2>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Crude_steel> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/24.41>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Precious_metals> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/24.42>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Aluminium> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/24.42.23>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Aluminium_wire> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/24.44>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Copper> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/24.44.23>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Copper_wire> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/25.50.2>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Powder_metallurgy> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/25.50.20>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Powder_metallurgy> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/25.71>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Cutlery> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/25.71.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Cutlery> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/25.73>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Tools> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/26.11>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Electronic_components> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/26.12.3>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Smart_cards> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/26.12.30>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Smart_cards> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/26.30.13>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Television_cameras> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/26.4>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Consumer_electronics> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/26.40>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Consumer_electronics> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/26.70.13>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Digital_Cameras> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/27>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Electrical_equipment> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/27.12.3>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Boards> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/27.5>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Domestic_appliances> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/27.90.42>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Fuel_Cells> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/28.11.2>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Turbines> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/28.11.24>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Wind_turbines> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/28.30.31>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Ploughs> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/28.30.82>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Milking_machines> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/28.93.12>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Dairy_machinery> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/28.94.13>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Weaving_machines> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/29.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Motor_vehicles> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/29.10>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Motor_vehicles> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/29.10.2>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Passenger_cars> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/30.11.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Naval_ships> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/30.11.10>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Naval_ships> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/30.11.24>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Dry_cargo_ships> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/30.30.31>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Helicopters> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/30.91>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Motorcycles> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/31>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Furniture> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/31.0>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Furniture> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/31.03>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Mattresses> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/31.03.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Mattresses> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/32.11>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Coins> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/32.11.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Coins> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/32.11.10>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Coins> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/32.2>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Musical_instruments> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/32.20>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Musical_instruments> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/32.3>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Sports_goods> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/32.30>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Sports_goods> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/32.30.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Sports_goods> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/32.40.32>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Puzzles> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/32.40.4>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Other_games> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/32.40.41>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Playing_cards> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/35.11>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Electricity> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/35.11.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Electricity> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/35.11.10>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Electricity> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/35.21>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Manufactured_gas> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/36.00.11>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Drinking_water> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/37.00.2>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Sewage_sludge> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/37.00.20>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Sewage_sludge> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/38.11.55>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Plastic_waste> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/41.00.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Residential_buildings> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/41.00.21>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Industrial_buildings> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/41.00.23>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Office_buildings> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/42.22.13>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Power_plants> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/59.20.31>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Printed_music> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/59.20.35>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Music_downloads> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/63>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Information_services> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/63.11.12>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Web_hosting_services> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/69.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Legal_services> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/69.10>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Legal_services> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/69.10.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Legal_services> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/81.2>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Cleaning_services> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/86.90.18>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Mental_Health_Services> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/90.03>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Artistic_Creation> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/90.03.1>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Artistic_Creation> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/91.02.2>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Museum_collections> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/91.02.20>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Museum_collections> .
+
+<http://data.openbudgets.eu/resource/codelist/cpa/96.09.12>
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dbpedia.org/resource/Escort_services> .
+
