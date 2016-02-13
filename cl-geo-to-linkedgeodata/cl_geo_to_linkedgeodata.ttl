@@ -1,0 +1,296 @@
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/CZ01> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation435541> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/CZ02> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation435515> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/CZ03> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation435511> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/CZ04> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation435516> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/CZ05> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation435513> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/CZ06> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation435510> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/CZ07> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation435508> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/CZ08> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation435512> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/CZ010> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation435514> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/CZ020> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation442397> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/CZ031> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation442321> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/CZ032> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation442466> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/CZ041> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation442314> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/CZ042> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation442452> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/CZ051> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation442455> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/CZ052> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation442463> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/CZ053> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation442460> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/CZ063> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation442453> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/CZ064> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation442311> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/CZ071> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation442459> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/CZ072> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation442449> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/CZ080> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation442461> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/DE734> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation62401> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR10> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node1251610258> , <http://linkedgeodata.org/triplify/relation8649> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR101> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation71525> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR102> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7383> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR103> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7457> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR104> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7401> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR105> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7449> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR106> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7389> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR107> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7458> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR108> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7433> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR21> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node1251610250> , <http://linkedgeodata.org/triplify/relation8641> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR22> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node1251610253> , <http://linkedgeodata.org/triplify/relation8651> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR23> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node1251610263> , <http://linkedgeodata.org/triplify/relation8656> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR24> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node1251610261> , <http://linkedgeodata.org/triplify/relation8640> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR25> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node1251610262> , <http://linkedgeodata.org/triplify/relation8646> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR26> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node1251610252> , <http://linkedgeodata.org/triplify/relation27768> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR211> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7395> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR212> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7441> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR213> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7379> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR214> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7396> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR221> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7411> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR222> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7427> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR223> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7463> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR231> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7435> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR232> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7426> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR241> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7456> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR242> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7374> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR243> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7417> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR244> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7408> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR245> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7399> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR246> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7440> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR251> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7453> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR252> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7404> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR253> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7419> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR261> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7424> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR262> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7448> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR263> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7397> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR264> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7392> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR30> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node1251610266> , <http://linkedgeodata.org/triplify/relation8648> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR301> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7400> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR302> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7394> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR41> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node1251610245> , <http://linkedgeodata.org/triplify/relation8645> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR42> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node1251610265> , <http://linkedgeodata.org/triplify/relation8636> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR43> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node1251610249> , <http://linkedgeodata.org/triplify/relation8642> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR411> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation51856> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR412> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7382> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR413> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation51854> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR414> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7384> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR421> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7415> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR422> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7403> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR431> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7462> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR432> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7460> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR433> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7423> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR434> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7410> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR51> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node1251610264> , <http://linkedgeodata.org/triplify/relation8650> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR52> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node1251610260> , <http://linkedgeodata.org/triplify/relation102740> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR53> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node1251610246> , <http://linkedgeodata.org/triplify/relation8652> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR511> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7432> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR512> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7409> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR513> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7438> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR514> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7443> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR515> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7402> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR521> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7398> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR522> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation102430> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR523> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7465> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR524> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7447> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR531> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7428> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR532> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7431> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR533> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7455> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR534> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7377> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR61> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node1251610251> , <http://linkedgeodata.org/triplify/relation8637> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR62> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node1251610259> , <http://linkedgeodata.org/triplify/relation8647> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR63> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node1251610243> , <http://linkedgeodata.org/triplify/relation8644> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR611> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7375> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR612> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7405> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR613> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7376> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR614> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation1284995> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR615> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7450> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR621> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7439> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR622> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7451> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR623> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7413> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR624> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7422> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR625> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7454> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR626> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7467> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR627> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7442> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR628> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7388> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR631> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7464> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR632> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7459> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR633> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7418> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR71> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node1251610254> , <http://linkedgeodata.org/triplify/relation8655> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR72> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node1251610255> , <http://linkedgeodata.org/triplify/relation8638> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR711> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7387> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR712> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7430> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR713> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7434> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR714> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7437> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR715> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7420> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR716> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation4850450> , <http://linkedgeodata.org/triplify/relation4850451> , <http://linkedgeodata.org/triplify/relation7378> , <http://linkedgeodata.org/triplify/relation7407> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR718> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7425> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR721> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation1450201> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR722> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7381> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR723> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7452> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR724> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7406> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR81> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node1251610256> , <http://linkedgeodata.org/triplify/relation8643> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR82> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node1251610257> , <http://linkedgeodata.org/triplify/relation8654> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR83> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node61083317> , <http://linkedgeodata.org/triplify/relation76910> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR811> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7446> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR812> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7461> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR813> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7429> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR814> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7421> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR815> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7466> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR821> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7380> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR822> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7436> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR823> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/node3266599461> , <http://linkedgeodata.org/triplify/relation7385> , <http://linkedgeodata.org/triplify/relation7393> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR825> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7390> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR826> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation7445> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR831> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation76932> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/FR832> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation76931> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/PL21A> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation2624203> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/PL224> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation4642615> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/PL225> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation4642608> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/PL227> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation4642609> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/PL228> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation4642587> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/PL229> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation4642588> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/PL22A> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation2624202> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/PL22B> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation2624204> .
+
+<http://data.openbudgets.eu/resource/codelist/cl-geo/PL22C> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkedgeodata.org/triplify/relation2624205> .
