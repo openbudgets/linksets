@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Silk>
+  <Prefixes>
+    <Prefix id="dbo" namespace="http://dbpedia.org/ontology/"/>
+    <Prefix id="rdfs" namespace="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Prefix id="skos" namespace="http://www.w3.org/2004/02/skos/core#"/>
+  </Prefixes>
+  <DataSources>
+    <DataSource id="cpa" type="sparqlEndpoint">
+      <Param name="endpointURI" value="http://localhost:8890/sparql"/>
+      <Param name="graph" value="http://data.openbudgets.eu/resource/codelist/cpa"/>
+    </DataSource>
+    <DataSource id="dbpedia" type="sparqlEndpoint">
+      <Param name="endpointURI" value="http://localhost:8890/sparql"/>
+      <Param name="graph" value="http://dbpedia.org"/>
+      <Param name="pageSize" value="100000"/>
+    </DataSource>
+  </DataSources>
+  <Interlinks>
+    <Interlink id="cpa-to-dbpedia">
+      <SourceDataset dataSource="cpa" var="a">
+        <RestrictTo>?a a skos:Concept .</RestrictTo>
+      </SourceDataset>
+      <TargetDataset dataSource="dbpedia" var="b">
+        <RestrictTo>
+          ?b rdfs:label ?label .
+          # The resource isn't a disambiguation page and its label isn't an abbreviation
+          FILTER (!(CONTAINS(?label, "(disambiguation)") || REGEX(STR(?label), "^[A-Z]{2,}.*$")))
+          # The resource's label is unambiguous and the resource isn't a redirect
+          FILTER NOT EXISTS {
+            VALUES ?p {
+              dbo:wikiPageRedirects
+              dbo:wikiPageDisambiguates
+            }
+            ?b ?p [] .
+          }
+        </RestrictTo>
+      </TargetDataset>
+      <LinkageRule linkType="skos:closeMatch">
+        <Aggregate type="min">
+          <Compare required="true" weight="2" metric="equality" threshold="0"
+            indexing="true">
+            <TransformInput function="normalizeChars">
+              <TransformInput function="stripPostfix">
+                <TransformInput function="stripPostfix">
+                  <TransformInput function="lowerCase">
+                    <Input path="?a/skos:prefLabel[@lang = 'en']"/>
+                  </TransformInput>
+                  <Param name="postfix" value=" services"/>
+                </TransformInput>
+                <Param name="postfix" value=" and related"/>
+              </TransformInput>
+            </TransformInput>
+            <TransformInput function="normalizeChars">
+              <TransformInput function="lowerCase">
+                <Input path="?b/rdfs:label"/>
+              </TransformInput>
+            </TransformInput>
+          </Compare>
+          <!-- Compare labels of redirects -->
+          <Compare required="false" weight="1" metric="equality" threshold="0"
+            indexing="true">
+            <TransformInput function="normalizeChars">
+              <TransformInput function="stripPostfix">
+                <TransformInput function="stripPostfix">
+                  <TransformInput function="lowerCase">
+                    <Input path="?a/skos:prefLabel[@lang = 'en']"/>
+                  </TransformInput>
+                  <Param name="postfix" value=" services"/>
+                </TransformInput>
+                <Param name="postfix" value=" and related"/>
+              </TransformInput>
+            </TransformInput>
+            <TransformInput function="normalizeChars">
+              <TransformInput function="lowerCase">
+                <Input path="?b\dbo:wikiPageRedirects/rdfs:label"/>
+              </TransformInput>
+            </TransformInput>
+          </Compare>
+        </Aggregate>
+        <Filter/>
+      </LinkageRule>
+    </Interlink>
+  </Interlinks>
+  <Outputs>
+    <Output type="file">
+      <Param name="file" value="cpa_dbpedia.nt"/>
+      <Param name="format" value="ntriples"/>
+    </Output>
+  </Outputs>
+</Silk>
