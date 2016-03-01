@@ -1,0 +1,11 @@
+<http://data.openbudgets.eu/resource/ESIF_2014-2020/codelist/eu-funds/cf>  <http://www.w3.org/2004/02/skos/core#exactMatch>    <http://publications.europa.eu/resource/authority/eu-programme/CF> .
+
+<http://data.openbudgets.eu/resource/ESIF_2014-2020/codelist/eu-funds/eafrd>   <http://www.w3.org/2004/02/skos/core#exactMatch>  <http://publications.europa.eu/resource/authority/eu-programme/EAFRD2020> 
+
+<http://data.openbudgets.eu/resource/ESIF_2014-2020/codelist/eu-funds/emff>  <http://www.w3.org/2004/02/skos/core#exactMatch>  <http://publications.europa.eu/resource/authority/eu-programme/EMFF2020>
+
+<http://data.openbudgets.eu/resource/ESIF_2014-2020/codelist/eu-funds/erdf>    <http://www.w3.org/2004/02/skos/core#exactMatch>  <http://publications.europa.eu/resource/authority/eu-programme/ERDF>
+
+<http://data.openbudgets.eu/resource/ESIF_2014-2020/codelist/eu-funds/esf>  <http://www.w3.org/2004/02/skos/core#exactMatch>  <http://publications.europa.eu/resource/authority/eu-programme/ESF>
+
+<http://data.openbudgets.eu/resource/ESIF_2014-2020/codelist/eu-funds/yei>   <http://www.w3.org/2004/02/skos/core#exactMatch>  <http://publications.europa.eu/resource/authority/eu-programme/YEI> 

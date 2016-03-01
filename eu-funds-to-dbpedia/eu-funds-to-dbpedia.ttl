@@ -1,0 +1,7 @@
+<http://data.openbudgets.eu/resource/ESIF_2014-2020/codelist/eu-funds/cf>  <http://www.w3.org/2004/02/skos/core#exactMatch>   <http://dbpedia.org/resource/Cohesion_Fund>.
+
+<http://data.openbudgets.eu/resource/ESIF_2014-2020/codelist/eu-funds/eafrd>   <http://www.w3.org/2004/02/skos/core#exactMatch>  <http://dbpedia.org/resource/European_Agricultural_Fund_for_Rural_Development>. 
+
+<http://data.openbudgets.eu/resource/ESIF_2014-2020/codelist/eu-funds/erdf>    <http://www.w3.org/2004/02/skos/core#exactMatch>  <http://dbpedia.org/resource/European_Regional_Development_Fund>.
+
+<http://data.openbudgets.eu/resource/ESIF_2014-2020/codelist/eu-funds/esf>  <http://www.w3.org/2004/02/skos/core#exactMatch>  <http://dbpedia.org/resource/European_Social_Fund>
