@@ -1,0 +1,3275 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ns1: <http://data.openbudgets.eu/resource/codelist/cl-geo/> .
+@prefix dbpedia: <http://dbpedia.org/resource/> .
+
+ns1:AT
+    skos:closeMatch dbpedia:Austria .
+
+ns1:AT111
+    skos:closeMatch dbpedia:Oberpullendorf_District .
+
+ns1:AT12
+    skos:closeMatch dbpedia:Lower_Austria .
+
+ns1:AT123
+    skos:closeMatch dbpedia:Sankt_Pölten .
+
+ns1:AT124
+    skos:closeMatch dbpedia:Waldviertel .
+
+ns1:AT125
+    skos:closeMatch dbpedia:Weinviertel .
+
+ns1:AT21
+    skos:closeMatch dbpedia:Carinthia .
+
+ns1:AT22
+    skos:closeMatch dbpedia:Styria .
+
+ns1:AT221
+    skos:closeMatch dbpedia:Graz .
+
+ns1:AT222
+    skos:closeMatch dbpedia:Liezen .
+
+ns1:AT31
+    skos:closeMatch dbpedia:Upper_Austria .
+
+ns1:AT311
+    skos:closeMatch dbpedia:Innviertel .
+
+ns1:AT313
+    skos:closeMatch dbpedia:Mühlviertel .
+
+ns1:AT315
+    skos:closeMatch dbpedia:Traunviertel .
+
+ns1:AT32
+    skos:closeMatch dbpedia:Salzburg .
+
+ns1:AT321
+    skos:closeMatch dbpedia:Tamsweg_District .
+
+ns1:AT33
+    skos:closeMatch <http://dbpedia.org/resource/Tirol,_Austria> .
+
+ns1:AT331
+    skos:closeMatch dbpedia:Außerfern .
+
+ns1:AT332
+    skos:closeMatch dbpedia:Innsbruck .
+
+ns1:AT333
+    skos:closeMatch dbpedia:East_Tyrol .
+
+ns1:AT334
+    skos:closeMatch dbpedia:Tyrolean_Oberland .
+
+ns1:AT335
+    skos:closeMatch dbpedia:Tyrolean_Unterland .
+
+ns1:AT34
+    skos:closeMatch dbpedia:Vorarlberg .
+
+ns1:AT_CAP
+    skos:closeMatch dbpedia:Vienna .
+
+ns1:BE
+    skos:closeMatch dbpedia:Belgium .
+
+ns1:BE2
+    skos:closeMatch dbpedia:Flemish_Region .
+
+ns1:BE_VLA
+    skos:closeMatch dbpedia:Flemish_Community .
+
+ns1:BG
+    skos:closeMatch dbpedia:Bulgaria .
+
+ns1:BG31
+    skos:closeMatch dbpedia:Severozapaden_Planning_Region .
+
+ns1:BG311
+    skos:closeMatch dbpedia:Vidin .
+
+ns1:BG312
+    skos:closeMatch dbpedia:Montana .
+
+ns1:BG313
+    skos:closeMatch dbpedia:Vratsa .
+
+ns1:BG314
+    skos:closeMatch dbpedia:Pleven .
+
+ns1:BG315
+    skos:closeMatch dbpedia:Lovech .
+
+ns1:BG32
+    skos:closeMatch dbpedia:Severen_Tsentralen_Planning_Region .
+
+ns1:BG321
+    skos:closeMatch dbpedia:Veliko_Tarnovo .
+
+ns1:BG322
+    skos:closeMatch dbpedia:Gabrovo .
+
+ns1:BG324
+    skos:closeMatch dbpedia:Razgrad .
+
+ns1:BG325
+    skos:closeMatch dbpedia:Silistra .
+
+ns1:BG33
+    skos:closeMatch dbpedia:Severoiztochen_Planning_Region .
+
+ns1:BG331
+    skos:closeMatch dbpedia:Varna .
+
+ns1:BG332
+    skos:closeMatch dbpedia:Dobrich .
+
+ns1:BG333
+    skos:closeMatch dbpedia:Shumen .
+
+ns1:BG334
+    skos:closeMatch dbpedia:Targovishte .
+
+ns1:BG34
+    skos:closeMatch dbpedia:Yugoiztochen_Planning_Region .
+
+ns1:BG341
+    skos:closeMatch dbpedia:Burgas .
+
+ns1:BG342
+    skos:closeMatch dbpedia:Sliven .
+
+ns1:BG343
+    skos:closeMatch dbpedia:Yambol .
+
+ns1:BG344
+    skos:closeMatch dbpedia:Stara_Zagora .
+
+ns1:BG41
+    skos:closeMatch dbpedia:Yugozapaden_Planning_Region .
+
+ns1:BG413
+    skos:closeMatch dbpedia:Blagoevgrad .
+
+ns1:BG414
+    skos:closeMatch dbpedia:Pernik .
+
+ns1:BG415
+    skos:closeMatch dbpedia:Kyustendil .
+
+ns1:BG42
+    skos:closeMatch dbpedia:Yuzhen_Tsentralen_Planning_Region .
+
+ns1:BG421
+    skos:closeMatch dbpedia:Plovdiv .
+
+ns1:BG422
+    skos:closeMatch dbpedia:Haskovo .
+
+ns1:BG423
+    skos:closeMatch dbpedia:Pazardzhik .
+
+ns1:BG424
+    skos:closeMatch dbpedia:Smolyan .
+
+ns1:BG425
+    skos:closeMatch dbpedia:Kardzhali .
+
+ns1:BG_CAP
+    skos:closeMatch dbpedia:Sofia .
+
+ns1:CY_CAP
+    skos:closeMatch dbpedia:Nicosia .
+
+ns1:CZ03
+    skos:closeMatch dbpedia:Jihozápad .
+
+ns1:CZ04
+    skos:closeMatch dbpedia:Severozápad .
+
+ns1:CZ041
+    skos:closeMatch dbpedia:Karlovy_Vary_Region .
+
+ns1:CZ042
+    skos:closeMatch <http://dbpedia.org/resource/Ústí_nad_Labem_Region> .
+
+ns1:CZ05
+    skos:closeMatch dbpedia:Severovýchod .
+
+ns1:CZ051
+    skos:closeMatch dbpedia:Liberec_Region .
+
+ns1:CZ052
+    skos:closeMatch dbpedia:Hradec_Králové_Region .
+
+ns1:CZ053
+    skos:closeMatch dbpedia:Pardubice_Region .
+
+ns1:CZ06
+    skos:closeMatch dbpedia:Jihovýchod .
+
+ns1:CZ064
+    skos:closeMatch dbpedia:South_Moravian_Region .
+
+ns1:CZ071
+    skos:closeMatch dbpedia:Olomouc_Region .
+
+ns1:CZ072
+    skos:closeMatch dbpedia:Zlín_Region .
+
+ns1:CZ_CAP
+    skos:closeMatch dbpedia:Prague .
+
+ns1:DE1
+    skos:closeMatch dbpedia:Baden-Württemberg .
+
+ns1:DE11
+    skos:closeMatch dbpedia:Stuttgart .
+
+ns1:DE112
+    skos:closeMatch dbpedia:Böblingen .
+
+ns1:DE114
+    skos:closeMatch dbpedia:Göppingen .
+
+ns1:DE115
+    skos:closeMatch dbpedia:Ludwigsburg .
+
+ns1:DE116
+    skos:closeMatch dbpedia:Rems-Murr-Kreis .
+
+ns1:DE119
+    skos:closeMatch <http://dbpedia.org/resource/Hohenlohe_(district)> .
+
+ns1:DE11A
+    skos:closeMatch dbpedia:Schwäbisch_Hall .
+
+ns1:DE11B
+    skos:closeMatch dbpedia:Main-Tauber-Kreis .
+
+ns1:DE11D
+    skos:closeMatch dbpedia:Ostalbkreis .
+
+ns1:DE12
+    skos:closeMatch dbpedia:Karlsruhe .
+
+ns1:DE124
+    skos:closeMatch dbpedia:Rastatt .
+
+ns1:DE127
+    skos:closeMatch dbpedia:Neckar-Odenwald-Kreis .
+
+ns1:DE128
+    skos:closeMatch dbpedia:Rhein-Neckar-Kreis .
+
+ns1:DE12A
+    skos:closeMatch dbpedia:Calw .
+
+ns1:DE12B
+    skos:closeMatch dbpedia:Enzkreis .
+
+ns1:DE12C
+    skos:closeMatch dbpedia:Freudenstadt .
+
+ns1:DE13
+    skos:closeMatch dbpedia:Freiburg_im_Breisgau .
+
+ns1:DE132
+    skos:closeMatch dbpedia:Breisgau-Hochschwarzwald .
+
+ns1:DE133
+    skos:closeMatch dbpedia:Emmendingen .
+
+ns1:DE134
+    skos:closeMatch dbpedia:Ortenaukreis .
+
+ns1:DE135
+    skos:closeMatch dbpedia:Rottweil .
+
+ns1:DE136
+    skos:closeMatch dbpedia:Schwarzwald-Baar-Kreis .
+
+ns1:DE137
+    skos:closeMatch dbpedia:Tuttlingen .
+
+ns1:DE138
+    skos:closeMatch dbpedia:Konstanz .
+
+ns1:DE139
+    skos:closeMatch dbpedia:Lörrach .
+
+ns1:DE14
+    skos:closeMatch dbpedia:Tübingen .
+
+ns1:DE141
+    skos:closeMatch dbpedia:Reutlingen .
+
+ns1:DE143
+    skos:closeMatch dbpedia:Zollernalbkreis .
+
+ns1:DE145
+    skos:closeMatch dbpedia:Alb-Donau-Kreis .
+
+ns1:DE147
+    skos:closeMatch dbpedia:Bodenseekreis .
+
+ns1:DE148
+    skos:closeMatch dbpedia:Ravensburg .
+
+ns1:DE149
+    skos:closeMatch dbpedia:Sigmaringen .
+
+ns1:DE2
+    skos:closeMatch dbpedia:Bavaria .
+
+ns1:DE21
+    skos:closeMatch dbpedia:Upper_Bavaria .
+
+ns1:DE214
+    skos:closeMatch dbpedia:Altötting .
+
+ns1:DE215
+    skos:closeMatch dbpedia:Berchtesgadener_Land .
+
+ns1:DE216
+    skos:closeMatch dbpedia:Bad_Tölz-Wolfratshausen .
+
+ns1:DE217
+    skos:closeMatch dbpedia:Dachau .
+
+ns1:DE218
+    skos:closeMatch dbpedia:Ebersberg .
+
+ns1:DE219
+    skos:closeMatch dbpedia:Eichstätt .
+
+ns1:DE21A
+    skos:closeMatch dbpedia:Erding .
+
+ns1:DE21B
+    skos:closeMatch dbpedia:Freising .
+
+ns1:DE21C
+    skos:closeMatch dbpedia:Fürstenfeldbruck .
+
+ns1:DE21D
+    skos:closeMatch dbpedia:Garmisch-Partenkirchen .
+
+ns1:DE21E
+    skos:closeMatch dbpedia:Landsberg_am_Lech .
+
+ns1:DE21F
+    skos:closeMatch dbpedia:Miesbach .
+
+ns1:DE21G
+    skos:closeMatch dbpedia:Mühldorf .
+
+ns1:DE21I
+    skos:closeMatch dbpedia:Neuburg-Schrobenhausen .
+
+ns1:DE21J
+    skos:closeMatch dbpedia:Pfaffenhofen_an_der_Ilm .
+
+ns1:DE21L
+    skos:closeMatch dbpedia:Starnberg .
+
+ns1:DE21M
+    skos:closeMatch dbpedia:Traunstein .
+
+ns1:DE21N
+    skos:closeMatch dbpedia:Weilheim-Schongau .
+
+ns1:DE22
+    skos:closeMatch dbpedia:Lower_Bavaria .
+
+ns1:DE224
+    skos:closeMatch dbpedia:Deggendorf .
+
+ns1:DE225
+    skos:closeMatch dbpedia:Freyung-Grafenau .
+
+ns1:DE226
+    skos:closeMatch dbpedia:Kelheim .
+
+ns1:DE229
+    skos:closeMatch dbpedia:Regen .
+
+ns1:DE22A
+    skos:closeMatch dbpedia:Rottal-Inn .
+
+ns1:DE22B
+    skos:closeMatch dbpedia:Straubing-Bogen .
+
+ns1:DE22C
+    skos:closeMatch dbpedia:Dingolfing-Landau .
+
+ns1:DE23
+    skos:closeMatch dbpedia:Upper_Palatinate .
+
+ns1:DE234
+    skos:closeMatch dbpedia:Amberg-Sulzbach .
+
+ns1:DE236
+    skos:closeMatch dbpedia:Neumarkt_in_der_Oberpfalz .
+
+ns1:DE237
+    skos:closeMatch dbpedia:Neustadt_an_der_Waldnaab .
+
+ns1:DE239
+    skos:closeMatch dbpedia:Schwandorf .
+
+ns1:DE23A
+    skos:closeMatch dbpedia:Tirschenreuth .
+
+ns1:DE24
+    skos:closeMatch dbpedia:Upper_Franconia .
+
+ns1:DE248
+    skos:closeMatch dbpedia:Forchheim .
+
+ns1:DE24A
+    skos:closeMatch dbpedia:Kronach .
+
+ns1:DE24B
+    skos:closeMatch dbpedia:Kulmbach .
+
+ns1:DE24D
+    skos:closeMatch <http://dbpedia.org/resource/Wunsiedel_(district)> .
+
+ns1:DE25
+    skos:closeMatch dbpedia:Middle_Franconia .
+
+ns1:DE257
+    skos:closeMatch dbpedia:Erlangen-Höchstadt .
+
+ns1:DE259
+    skos:closeMatch dbpedia:Nürnberger_Land .
+
+ns1:DE25A
+    skos:closeMatch <http://dbpedia.org/resource/Neustadt_(Aisch)-Bad_Windsheim> .
+
+ns1:DE25C
+    skos:closeMatch dbpedia:Weißenburg-Gunzenhausen .
+
+ns1:DE26
+    skos:closeMatch dbpedia:Lower_Franconia .
+
+ns1:DE265
+    skos:closeMatch dbpedia:Bad_Kissingen .
+
+ns1:DE266
+    skos:closeMatch dbpedia:Rhön-Grabfeld .
+
+ns1:DE267
+    skos:closeMatch dbpedia:Haßberge_Hills .
+
+ns1:DE268
+    skos:closeMatch dbpedia:Kitzingen .
+
+ns1:DE269
+    skos:closeMatch dbpedia:Miltenberg .
+
+ns1:DE26A
+    skos:closeMatch dbpedia:Main-Spessart .
+
+ns1:DE27
+    skos:closeMatch dbpedia:Swabia .
+
+ns1:DE275
+    skos:closeMatch dbpedia:Aichach-Friedberg .
+
+ns1:DE277
+    skos:closeMatch dbpedia:Dillingen_an_der_Donau .
+
+ns1:DE278
+    skos:closeMatch dbpedia:Günzburg .
+
+ns1:DE279
+    skos:closeMatch dbpedia:Neu-Ulm .
+
+ns1:DE27A
+    skos:closeMatch dbpedia:Lindau .
+
+ns1:DE27B
+    skos:closeMatch dbpedia:Ostallgäu .
+
+ns1:DE27C
+    skos:closeMatch dbpedia:Unterallgäu .
+
+ns1:DE27D
+    skos:closeMatch dbpedia:Donau-Ries .
+
+ns1:DE27E
+    skos:closeMatch dbpedia:Oberallgäu .
+
+ns1:DE405
+    skos:closeMatch dbpedia:Barnim .
+
+ns1:DE406
+    skos:closeMatch dbpedia:Dahme-Spreewald .
+
+ns1:DE407
+    skos:closeMatch dbpedia:Elbe-Elster .
+
+ns1:DE408
+    skos:closeMatch dbpedia:Havelland .
+
+ns1:DE409
+    skos:closeMatch dbpedia:Märkisch-Oderland .
+
+ns1:DE40A
+    skos:closeMatch dbpedia:Oberhavel .
+
+ns1:DE40B
+    skos:closeMatch dbpedia:Oberspreewald-Lausitz .
+
+ns1:DE40C
+    skos:closeMatch dbpedia:Oder-Spree .
+
+ns1:DE40D
+    skos:closeMatch dbpedia:Ostprignitz-Ruppin .
+
+ns1:DE40E
+    skos:closeMatch dbpedia:Potsdam-Mittelmark .
+
+ns1:DE40F
+    skos:closeMatch dbpedia:Prignitz .
+
+ns1:DE40G
+    skos:closeMatch dbpedia:Spree-Neiße .
+
+ns1:DE40H
+    skos:closeMatch dbpedia:Teltow-Fläming .
+
+ns1:DE40I
+    skos:closeMatch dbpedia:Uckermark .
+
+ns1:DE7
+    skos:closeMatch dbpedia:Hesse .
+
+ns1:DE71
+    skos:closeMatch dbpedia:Darmstadt .
+
+ns1:DE716
+    skos:closeMatch dbpedia:Darmstadt-Dieburg .
+
+ns1:DE717
+    skos:closeMatch dbpedia:Groß-Gerau .
+
+ns1:DE718
+    skos:closeMatch dbpedia:Hochtaunuskreis .
+
+ns1:DE719
+    skos:closeMatch dbpedia:Main-Kinzig-Kreis .
+
+ns1:DE71A
+    skos:closeMatch dbpedia:Main-Taunus-Kreis .
+
+ns1:DE71B
+    skos:closeMatch dbpedia:Odenwaldkreis .
+
+ns1:DE71D
+    skos:closeMatch dbpedia:Rheingau-Taunus-Kreis .
+
+ns1:DE71E
+    skos:closeMatch dbpedia:Wetteraukreis .
+
+ns1:DE72
+    skos:closeMatch dbpedia:Giessen .
+
+ns1:DE722
+    skos:closeMatch dbpedia:Lahn-Dill-Kreis .
+
+ns1:DE723
+    skos:closeMatch dbpedia:Limburg-Weilburg .
+
+ns1:DE724
+    skos:closeMatch dbpedia:Marburg-Biedenkopf .
+
+ns1:DE725
+    skos:closeMatch dbpedia:Vogelsbergkreis .
+
+ns1:DE73
+    skos:closeMatch dbpedia:Kassel .
+
+ns1:DE732
+    skos:closeMatch dbpedia:Fulda .
+
+ns1:DE733
+    skos:closeMatch dbpedia:Hersfeld-Rotenburg .
+
+ns1:DE735
+    skos:closeMatch dbpedia:Schwalm-Eder-Kreis .
+
+ns1:DE736
+    skos:closeMatch dbpedia:Waldeck-Frankenberg .
+
+ns1:DE737
+    skos:closeMatch dbpedia:Werra-Meißner-Kreis .
+
+ns1:DE80J
+    skos:closeMatch dbpedia:Mecklenburg_Lake_District .
+
+ns1:DE80K
+    skos:closeMatch <http://dbpedia.org/resource/Rostock_(district)> .
+
+ns1:DE80L
+    skos:closeMatch dbpedia:Vorpommern-Rügen .
+
+ns1:DE80M
+    skos:closeMatch dbpedia:Nordwestmecklenburg .
+
+ns1:DE80N
+    skos:closeMatch dbpedia:Vorpommern-Greifswald .
+
+ns1:DE80O
+    skos:closeMatch dbpedia:Ludwigslust-Parchim .
+
+ns1:DE9
+    skos:closeMatch dbpedia:Lower_Saxony .
+
+ns1:DE91
+    skos:closeMatch dbpedia:Braunschweig .
+
+ns1:DE914
+    skos:closeMatch dbpedia:Gifhorn .
+
+ns1:DE915
+    skos:closeMatch dbpedia:Göttingen .
+
+ns1:DE916
+    skos:closeMatch dbpedia:Goslar .
+
+ns1:DE917
+    skos:closeMatch dbpedia:Helmstedt .
+
+ns1:DE918
+    skos:closeMatch dbpedia:Northeim .
+
+ns1:DE919
+    skos:closeMatch dbpedia:Osterode_am_Harz .
+
+ns1:DE91A
+    skos:closeMatch dbpedia:Peine .
+
+ns1:DE91B
+    skos:closeMatch dbpedia:Wolfenbüttel .
+
+ns1:DE92
+    skos:closeMatch dbpedia:Hanover .
+
+ns1:DE922
+    skos:closeMatch dbpedia:Diepholz .
+
+ns1:DE923
+    skos:closeMatch dbpedia:Hamelin-Pyrmont .
+
+ns1:DE925
+    skos:closeMatch dbpedia:Hildesheim .
+
+ns1:DE926
+    skos:closeMatch dbpedia:Holzminden .
+
+ns1:DE927
+    skos:closeMatch <http://dbpedia.org/resource/Nienburg,_Lower_Saxony> .
+
+ns1:DE928
+    skos:closeMatch dbpedia:Schaumburg .
+
+ns1:DE929
+    skos:closeMatch dbpedia:Hanover_Region .
+
+ns1:DE93
+    skos:closeMatch dbpedia:Lüneburg .
+
+ns1:DE931
+    skos:closeMatch dbpedia:Celle .
+
+ns1:DE932
+    skos:closeMatch dbpedia:Cuxhaven .
+
+ns1:DE934
+    skos:closeMatch dbpedia:Lüchow-Dannenberg .
+
+ns1:DE936
+    skos:closeMatch dbpedia:Osterholz .
+
+ns1:DE937
+    skos:closeMatch dbpedia:Rotenburg_an_der_Wümme .
+
+ns1:DE938
+    skos:closeMatch dbpedia:Heidekreis .
+
+ns1:DE939
+    skos:closeMatch dbpedia:Stade .
+
+ns1:DE93A
+    skos:closeMatch dbpedia:Uelzen .
+
+ns1:DE94
+    skos:closeMatch dbpedia:Weser-Ems .
+
+ns1:DE946
+    skos:closeMatch dbpedia:Ammerland .
+
+ns1:DE947
+    skos:closeMatch dbpedia:Aurich .
+
+ns1:DE948
+    skos:closeMatch dbpedia:Cloppenburg .
+
+ns1:DE949
+    skos:closeMatch dbpedia:Emsland .
+
+ns1:DE94B
+    skos:closeMatch dbpedia:Bentheim .
+
+ns1:DE94C
+    skos:closeMatch dbpedia:Leer .
+
+ns1:DE94F
+    skos:closeMatch dbpedia:Vechta .
+
+ns1:DE94G
+    skos:closeMatch dbpedia:Wesermarsch .
+
+ns1:DE94H
+    skos:closeMatch dbpedia:Wittmund .
+
+ns1:DEA
+    skos:closeMatch dbpedia:North_Rhine-Westphalia .
+
+ns1:DEA1
+    skos:closeMatch dbpedia:Düsseldorf .
+
+ns1:DEA1B
+    skos:closeMatch dbpedia:Kleve .
+
+ns1:DEA1C
+    skos:closeMatch dbpedia:Mettmann .
+
+ns1:DEA1D
+    skos:closeMatch dbpedia:Rhein-Kreis_Neuss .
+
+ns1:DEA1E
+    skos:closeMatch dbpedia:Viersen .
+
+ns1:DEA1F
+    skos:closeMatch dbpedia:Wesel .
+
+ns1:DEA2
+    skos:closeMatch dbpedia:Cologne .
+
+ns1:DEA26
+    skos:closeMatch dbpedia:Düren .
+
+ns1:DEA27
+    skos:closeMatch dbpedia:Rhein-Erft-Kreis .
+
+ns1:DEA28
+    skos:closeMatch dbpedia:Euskirchen .
+
+ns1:DEA29
+    skos:closeMatch dbpedia:Heinsberg .
+
+ns1:DEA2A
+    skos:closeMatch dbpedia:Oberbergischer_Kreis .
+
+ns1:DEA2B
+    skos:closeMatch dbpedia:Rheinisch-Bergischer_Kreis .
+
+ns1:DEA2C
+    skos:closeMatch dbpedia:Rhein-Sieg-Kreis .
+
+ns1:DEA2D
+    skos:closeMatch <http://dbpedia.org/resource/Aachen_(district)> .
+
+ns1:DEA3
+    skos:closeMatch dbpedia:Münster .
+
+ns1:DEA35
+    skos:closeMatch dbpedia:Coesfeld .
+
+ns1:DEA36
+    skos:closeMatch dbpedia:Recklinghausen .
+
+ns1:DEA37
+    skos:closeMatch dbpedia:Steinfurt .
+
+ns1:DEA38
+    skos:closeMatch dbpedia:Warendorf .
+
+ns1:DEA4
+    skos:closeMatch dbpedia:Detmold .
+
+ns1:DEA42
+    skos:closeMatch dbpedia:Gütersloh .
+
+ns1:DEA43
+    skos:closeMatch dbpedia:Herford .
+
+ns1:DEA44
+    skos:closeMatch dbpedia:Höxter .
+
+ns1:DEA45
+    skos:closeMatch dbpedia:Lippe .
+
+ns1:DEA46
+    skos:closeMatch dbpedia:Minden-Lübbecke .
+
+ns1:DEA47
+    skos:closeMatch dbpedia:Paderborn .
+
+ns1:DEA5
+    skos:closeMatch dbpedia:Arnsberg .
+
+ns1:DEA56
+    skos:closeMatch dbpedia:Ennepe-Ruhr-Kreis .
+
+ns1:DEA57
+    skos:closeMatch dbpedia:Hochsauerlandkreis .
+
+ns1:DEA58
+    skos:closeMatch dbpedia:Märkischer_Kreis .
+
+ns1:DEA5A
+    skos:closeMatch dbpedia:Siegen-Wittgenstein .
+
+ns1:DEA5C
+    skos:closeMatch dbpedia:Unna .
+
+ns1:DEB
+    skos:closeMatch dbpedia:Rhineland-Palatinate .
+
+ns1:DEB1
+    skos:closeMatch dbpedia:Koblenz .
+
+ns1:DEB12
+    skos:closeMatch dbpedia:Ahrweiler .
+
+ns1:DEB13
+    skos:closeMatch dbpedia:Altenkirchen .
+
+ns1:DEB14
+    skos:closeMatch dbpedia:Bad_Kreuznach .
+
+ns1:DEB15
+    skos:closeMatch dbpedia:Birkenfeld .
+
+ns1:DEB16
+    skos:closeMatch dbpedia:Cochem-Zell .
+
+ns1:DEB17
+    skos:closeMatch dbpedia:Mayen-Koblenz .
+
+ns1:DEB18
+    skos:closeMatch dbpedia:Neuwied .
+
+ns1:DEB19
+    skos:closeMatch dbpedia:Rhein-Hunsrück-Kreis .
+
+ns1:DEB1A
+    skos:closeMatch dbpedia:Rhein-Lahn-Kreis .
+
+ns1:DEB1B
+    skos:closeMatch dbpedia:Westerwaldkreis .
+
+ns1:DEB2
+    skos:closeMatch dbpedia:Trier .
+
+ns1:DEB22
+    skos:closeMatch dbpedia:Bernkastel-Wittlich .
+
+ns1:DEB23
+    skos:closeMatch dbpedia:Bitburg-Prüm .
+
+ns1:DEB24
+    skos:closeMatch dbpedia:Vulkaneifel .
+
+ns1:DEB25
+    skos:closeMatch dbpedia:Trier-Saarburg .
+
+ns1:DEB3
+    skos:closeMatch dbpedia:Rheinhessen-Pfalz .
+
+ns1:DEB3B
+    skos:closeMatch dbpedia:Alzey-Worms .
+
+ns1:DEB3C
+    skos:closeMatch dbpedia:Bad_Dürkheim .
+
+ns1:DEB3D
+    skos:closeMatch dbpedia:Donnersbergkreis .
+
+ns1:DEB3E
+    skos:closeMatch dbpedia:Germersheim .
+
+ns1:DEB3G
+    skos:closeMatch dbpedia:Kusel .
+
+ns1:DEB3H
+    skos:closeMatch dbpedia:Südliche_Weinstraße .
+
+ns1:DEB3I
+    skos:closeMatch dbpedia:Rhein-Pfalz-Kreis .
+
+ns1:DEB3J
+    skos:closeMatch dbpedia:Mainz-Bingen .
+
+ns1:DEB3K
+    skos:closeMatch dbpedia:Südwestpfalz .
+
+ns1:DEC01
+    skos:closeMatch <http://dbpedia.org/resource/Saarbrücken_(district)> .
+
+ns1:DEC02
+    skos:closeMatch dbpedia:Merzig-Wadern .
+
+ns1:DEC04
+    skos:closeMatch dbpedia:Saarlouis .
+
+ns1:DEC05
+    skos:closeMatch dbpedia:Saarpfalz-Kreis .
+
+ns1:DEC06
+    skos:closeMatch dbpedia:Sankt_Wendel .
+
+ns1:DED
+    skos:closeMatch dbpedia:Saxony .
+
+ns1:DED2
+    skos:closeMatch dbpedia:Dresden .
+
+ns1:DED2C
+    skos:closeMatch dbpedia:Bautzen .
+
+ns1:DED2D
+    skos:closeMatch dbpedia:Görlitz .
+
+ns1:DED2E
+    skos:closeMatch dbpedia:Meissen .
+
+ns1:DED2F
+    skos:closeMatch dbpedia:Sächsische_Schweiz-Osterzgebirge .
+
+ns1:DED4
+    skos:closeMatch dbpedia:Chemnitz .
+
+ns1:DED42
+    skos:closeMatch dbpedia:Erzgebirgskreis .
+
+ns1:DED43
+    skos:closeMatch dbpedia:Mittelsachsen .
+
+ns1:DED44
+    skos:closeMatch dbpedia:Vogtlandkreis .
+
+ns1:DED45
+    skos:closeMatch dbpedia:Zwickau .
+
+ns1:DED53
+    skos:closeMatch dbpedia:Nordsachsen .
+
+ns1:DEE04
+    skos:closeMatch dbpedia:Altmarkkreis_Salzwedel .
+
+ns1:DEE05
+    skos:closeMatch dbpedia:Anhalt-Bitterfeld .
+
+ns1:DEE06
+    skos:closeMatch dbpedia:Jerichower_Land .
+
+ns1:DEE07
+    skos:closeMatch dbpedia:Börde .
+
+ns1:DEE09
+    skos:closeMatch dbpedia:Harz .
+
+ns1:DEE0A
+    skos:closeMatch dbpedia:Mansfeld-Südharz .
+
+ns1:DEE0B
+    skos:closeMatch dbpedia:Saalekreis .
+
+ns1:DEE0C
+    skos:closeMatch dbpedia:Salzlandkreis .
+
+ns1:DEE0D
+    skos:closeMatch dbpedia:Stendal .
+
+ns1:DEE0E
+    skos:closeMatch dbpedia:Wittenberg .
+
+ns1:DEF05
+    skos:closeMatch dbpedia:Dithmarschen .
+
+ns1:DEF06
+    skos:closeMatch dbpedia:Herzogtum_Lauenburg .
+
+ns1:DEF07
+    skos:closeMatch dbpedia:Nordfriesland .
+
+ns1:DEF08
+    skos:closeMatch dbpedia:Ostholstein .
+
+ns1:DEF09
+    skos:closeMatch dbpedia:Pinneberg .
+
+ns1:DEF0A
+    skos:closeMatch dbpedia:Plön .
+
+ns1:DEF0B
+    skos:closeMatch dbpedia:Rendsburg-Eckernförde .
+
+ns1:DEF0C
+    skos:closeMatch dbpedia:Schleswig-Flensburg .
+
+ns1:DEF0D
+    skos:closeMatch dbpedia:Segeberg .
+
+ns1:DEF0E
+    skos:closeMatch dbpedia:Steinburg .
+
+ns1:DEG06
+    skos:closeMatch dbpedia:Eichsfeld .
+
+ns1:DEG07
+    skos:closeMatch dbpedia:Nordhausen .
+
+ns1:DEG09
+    skos:closeMatch dbpedia:Unstrut-Hainich-Kreis .
+
+ns1:DEG0A
+    skos:closeMatch dbpedia:Kyffhäuserkreis .
+
+ns1:DEG0B
+    skos:closeMatch dbpedia:Schmalkalden-Meiningen .
+
+ns1:DEG0C
+    skos:closeMatch dbpedia:Gotha .
+
+ns1:DEG0D
+    skos:closeMatch dbpedia:Sömmerda .
+
+ns1:DEG0E
+    skos:closeMatch dbpedia:Hildburghausen .
+
+ns1:DEG0F
+    skos:closeMatch dbpedia:Ilm-Kreis .
+
+ns1:DEG0G
+    skos:closeMatch dbpedia:Weimarer_Land .
+
+ns1:DEG0H
+    skos:closeMatch dbpedia:Sonneberg .
+
+ns1:DEG0I
+    skos:closeMatch dbpedia:Saalfeld-Rudolstadt .
+
+ns1:DEG0J
+    skos:closeMatch dbpedia:Saale-Holzland-Kreis .
+
+ns1:DEG0K
+    skos:closeMatch dbpedia:Saale-Orla-Kreis .
+
+ns1:DEG0L
+    skos:closeMatch dbpedia:Greiz .
+
+ns1:DEG0M
+    skos:closeMatch dbpedia:Altenburger_Land .
+
+ns1:DEG0P
+    skos:closeMatch dbpedia:Wartburgkreis .
+
+ns1:DE_CAP
+    skos:closeMatch dbpedia:Berlin .
+
+ns1:DK
+    skos:closeMatch dbpedia:Denmark .
+
+ns1:DK01
+    skos:closeMatch dbpedia:Capital_Region_of_Denmark .
+
+ns1:DK013
+    skos:closeMatch dbpedia:North_Zealand .
+
+ns1:DK014
+    skos:closeMatch dbpedia:Bornholm .
+
+ns1:DK02
+    skos:closeMatch dbpedia:Zealand .
+
+ns1:DK03
+    skos:closeMatch dbpedia:Region_of_Southern_Denmark .
+
+ns1:DK031
+    skos:closeMatch dbpedia:Funen .
+
+ns1:DK04
+    skos:closeMatch dbpedia:Central_Denmark_Region .
+
+ns1:DK_CAP
+    skos:closeMatch dbpedia:Copenhagen .
+
+ns1:EE
+    skos:closeMatch dbpedia:Estonia .
+
+ns1:EE_CAP
+    skos:closeMatch dbpedia:Tallinn .
+
+ns1:EL
+    skos:closeMatch dbpedia:Greece .
+
+ns1:EL4
+    skos:closeMatch <http://dbpedia.org/resource/Nisia_Aigaiou,_Kriti> .
+
+ns1:EL41
+    skos:closeMatch dbpedia:North_Aegean .
+
+ns1:EL413
+    skos:closeMatch dbpedia:Chios .
+
+ns1:EL42
+    skos:closeMatch dbpedia:South_Aegean .
+
+ns1:EL43
+    skos:closeMatch dbpedia:Kriti .
+
+ns1:EL431
+    skos:closeMatch dbpedia:Heraklion .
+
+ns1:EL432
+    skos:closeMatch dbpedia:Lasithi .
+
+ns1:EL434
+    skos:closeMatch dbpedia:Chania .
+
+ns1:EL5
+    skos:closeMatch dbpedia:Northern_Greece .
+
+ns1:EL512
+    skos:closeMatch dbpedia:Xanthi .
+
+ns1:EL514
+    skos:closeMatch dbpedia:Drama .
+
+ns1:EL52
+    skos:closeMatch dbpedia:Central_Macedonia .
+
+ns1:EL521
+    skos:closeMatch dbpedia:Imathia .
+
+ns1:EL522
+    skos:closeMatch dbpedia:Thessaloniki .
+
+ns1:EL523
+    skos:closeMatch dbpedia:Kilkis .
+
+ns1:EL524
+    skos:closeMatch dbpedia:Pella .
+
+ns1:EL526
+    skos:closeMatch dbpedia:Serres .
+
+ns1:EL527
+    skos:closeMatch dbpedia:Chalkidiki .
+
+ns1:EL53
+    skos:closeMatch dbpedia:Western_Macedonia .
+
+ns1:EL532
+    skos:closeMatch dbpedia:Kastoria .
+
+ns1:EL533
+    skos:closeMatch dbpedia:Florina .
+
+ns1:EL54
+    skos:closeMatch dbpedia:Epirus .
+
+ns1:EL542
+    skos:closeMatch dbpedia:Thesprotia .
+
+ns1:EL543
+    skos:closeMatch dbpedia:Ioannina .
+
+ns1:EL6
+    skos:closeMatch dbpedia:Kentriki_Ellada .
+
+ns1:EL61
+    skos:closeMatch dbpedia:Thessaly .
+
+ns1:EL612
+    skos:closeMatch dbpedia:Larissa .
+
+ns1:EL613
+    skos:closeMatch <http://dbpedia.org/resource/Magnesia_(regional_unit)> .
+
+ns1:EL62
+    skos:closeMatch dbpedia:Ionian_Islands .
+
+ns1:EL621
+    skos:closeMatch dbpedia:Zakynthos .
+
+ns1:EL622
+    skos:closeMatch dbpedia:Corfu .
+
+ns1:EL624
+    skos:closeMatch dbpedia:Lefkada .
+
+ns1:EL63
+    skos:closeMatch dbpedia:Western_Greece .
+
+ns1:EL631
+    skos:closeMatch dbpedia:Aetolia-Acarnania .
+
+ns1:EL632
+    skos:closeMatch dbpedia:Achaea .
+
+ns1:EL633
+    skos:closeMatch <http://dbpedia.org/resource/Elis_(regional_unit)> .
+
+ns1:EL64
+    skos:closeMatch dbpedia:Central_Greece .
+
+ns1:EL641
+    skos:closeMatch dbpedia:Boeotia .
+
+ns1:EL642
+    skos:closeMatch dbpedia:Euboea .
+
+ns1:EL643
+    skos:closeMatch dbpedia:Evrytania .
+
+ns1:EL644
+    skos:closeMatch dbpedia:Phthiotis .
+
+ns1:EL645
+    skos:closeMatch dbpedia:Phocis .
+
+ns1:EL65
+    skos:closeMatch dbpedia:Peloponnese .
+
+ns1:EL652
+    skos:closeMatch dbpedia:Corinthia .
+
+ns1:EL_CAP
+    skos:closeMatch dbpedia:Athens .
+
+ns1:ES
+    skos:closeMatch dbpedia:Spain .
+
+ns1:ES111
+    skos:closeMatch dbpedia:A_Coruña .
+
+ns1:ES112
+    skos:closeMatch dbpedia:Lugo .
+
+ns1:ES113
+    skos:closeMatch dbpedia:Ourense .
+
+ns1:ES114
+    skos:closeMatch dbpedia:Pontevedra .
+
+ns1:ES21
+    skos:closeMatch <http://dbpedia.org/resource/Basque_Country_(autonomous_community)> .
+
+ns1:ES212
+    skos:closeMatch dbpedia:Gipuzkoa .
+
+ns1:ES213
+    skos:closeMatch dbpedia:Biscay .
+
+ns1:ES24
+    skos:closeMatch dbpedia:Aragon .
+
+ns1:ES241
+    skos:closeMatch dbpedia:Huesca .
+
+ns1:ES242
+    skos:closeMatch dbpedia:Teruel .
+
+ns1:ES243
+    skos:closeMatch dbpedia:Zaragoza .
+
+ns1:ES41
+    skos:closeMatch dbpedia:Castile_and_León .
+
+ns1:ES412
+    skos:closeMatch dbpedia:Burgos .
+
+ns1:ES413
+    skos:closeMatch dbpedia:Leon .
+
+ns1:ES414
+    skos:closeMatch dbpedia:Palencia .
+
+ns1:ES415
+    skos:closeMatch dbpedia:Salamanca .
+
+ns1:ES416
+    skos:closeMatch dbpedia:Segovia .
+
+ns1:ES417
+    skos:closeMatch dbpedia:Soria .
+
+ns1:ES418
+    skos:closeMatch dbpedia:Valladolid .
+
+ns1:ES421
+    skos:closeMatch dbpedia:Albacete .
+
+ns1:ES422
+    skos:closeMatch dbpedia:Ciudad_Real .
+
+ns1:ES424
+    skos:closeMatch dbpedia:Guadalajara .
+
+ns1:ES43
+    skos:closeMatch dbpedia:Extremadura .
+
+ns1:ES431
+    skos:closeMatch dbpedia:Badajoz .
+
+ns1:ES51
+    skos:closeMatch dbpedia:Catalonia .
+
+ns1:ES511
+    skos:closeMatch dbpedia:Barcelona .
+
+ns1:ES512
+    skos:closeMatch dbpedia:Girona .
+
+ns1:ES513
+    skos:closeMatch dbpedia:Lleida .
+
+ns1:ES514
+    skos:closeMatch dbpedia:Tarragona .
+
+ns1:ES52
+    skos:closeMatch dbpedia:Valencian_Community .
+
+ns1:ES53
+    skos:closeMatch dbpedia:Balearic_Islands .
+
+ns1:ES532
+    skos:closeMatch dbpedia:Majorca .
+
+ns1:ES533
+    skos:closeMatch dbpedia:Minorca .
+
+ns1:ES61
+    skos:closeMatch dbpedia:Andalusia .
+
+ns1:ES611
+    skos:closeMatch dbpedia:Almería .
+
+ns1:ES612
+    skos:closeMatch dbpedia:Cádiz .
+
+ns1:ES614
+    skos:closeMatch dbpedia:Granada .
+
+ns1:ES615
+    skos:closeMatch dbpedia:Huelva .
+
+ns1:ES617
+    skos:closeMatch dbpedia:Málaga .
+
+ns1:ES618
+    skos:closeMatch dbpedia:Seville .
+
+ns1:ES62
+    skos:closeMatch dbpedia:Region_of_Murcia .
+
+ns1:ES620
+    skos:closeMatch dbpedia:Murcia .
+
+ns1:ES703
+    skos:closeMatch dbpedia:El_Hierro .
+
+ns1:ES704
+    skos:closeMatch dbpedia:Fuerteventura .
+
+ns1:ES705
+    skos:closeMatch dbpedia:Gran_Canaria .
+
+ns1:ES706
+    skos:closeMatch dbpedia:La_Gomera .
+
+ns1:ES707
+    skos:closeMatch dbpedia:La_Palma .
+
+ns1:ES708
+    skos:closeMatch dbpedia:Lanzarote .
+
+ns1:ES709
+    skos:closeMatch dbpedia:Tenerife .
+
+ns1:ES_CAP
+    skos:closeMatch dbpedia:Madrid .
+
+ns1:EUR
+    skos:closeMatch dbpedia:Europe .
+
+ns1:FI
+    skos:closeMatch dbpedia:Finland .
+
+ns1:FI19
+    skos:closeMatch dbpedia:Länsi-Suomi .
+
+ns1:FI193
+    skos:closeMatch dbpedia:Central_Finland .
+
+ns1:FI194
+    skos:closeMatch dbpedia:Southern_Ostrobothnia .
+
+ns1:FI196
+    skos:closeMatch dbpedia:Satakunta .
+
+ns1:FI197
+    skos:closeMatch dbpedia:Pirkanmaa .
+
+ns1:FI1C1
+    skos:closeMatch dbpedia:Southwest_Finland .
+
+ns1:FI1C2
+    skos:closeMatch dbpedia:Tavastia_Proper .
+
+ns1:FI1C3
+    skos:closeMatch dbpedia:Päijänne_Tavastia .
+
+ns1:FI1C4
+    skos:closeMatch dbpedia:Kymenlaakso .
+
+ns1:FI1C5
+    skos:closeMatch dbpedia:South_Karelia .
+
+ns1:FI1D1
+    skos:closeMatch dbpedia:Southern_Savonia .
+
+ns1:FI1D2
+    skos:closeMatch dbpedia:Northern_Savonia .
+
+ns1:FI1D3
+    skos:closeMatch dbpedia:North_Karelia .
+
+ns1:FI1D4
+    skos:closeMatch dbpedia:Kainuu .
+
+ns1:FI1D5
+    skos:closeMatch dbpedia:Central_Ostrobothnia .
+
+ns1:FI1D6
+    skos:closeMatch dbpedia:Northern_Ostrobothnia .
+
+ns1:FI_CAP
+    skos:closeMatch dbpedia:Helsinki .
+
+ns1:FR
+    skos:closeMatch dbpedia:France .
+
+ns1:FR102
+    skos:closeMatch dbpedia:Seine-et-Marne .
+
+ns1:FR103
+    skos:closeMatch dbpedia:Yvelines .
+
+ns1:FR104
+    skos:closeMatch dbpedia:Essonne .
+
+ns1:FR105
+    skos:closeMatch dbpedia:Hauts-de-Seine .
+
+ns1:FR106
+    skos:closeMatch dbpedia:Seine-Saint-Denis .
+
+ns1:FR107
+    skos:closeMatch dbpedia:Val-de-Marne .
+
+ns1:FR108
+    skos:closeMatch <http://dbpedia.org/resource/Val-d'Oise> .
+
+ns1:FR21
+    skos:closeMatch dbpedia:Champagne-Ardenne .
+
+ns1:FR211
+    skos:closeMatch dbpedia:Ardennes .
+
+ns1:FR212
+    skos:closeMatch dbpedia:Aube .
+
+ns1:FR213
+    skos:closeMatch dbpedia:Marne .
+
+ns1:FR214
+    skos:closeMatch dbpedia:Haute-Marne .
+
+ns1:FR22
+    skos:closeMatch dbpedia:Picardy .
+
+ns1:FR221
+    skos:closeMatch dbpedia:Aisne .
+
+ns1:FR222
+    skos:closeMatch dbpedia:Oise .
+
+ns1:FR23
+    skos:closeMatch dbpedia:Upper_Normandy .
+
+ns1:FR231
+    skos:closeMatch dbpedia:Eure .
+
+ns1:FR232
+    skos:closeMatch dbpedia:Seine-Maritime .
+
+ns1:FR241
+    skos:closeMatch dbpedia:Cher .
+
+ns1:FR242
+    skos:closeMatch dbpedia:Eure-et-Loir .
+
+ns1:FR243
+    skos:closeMatch dbpedia:Indre .
+
+ns1:FR244
+    skos:closeMatch dbpedia:Indre-et-Loire .
+
+ns1:FR245
+    skos:closeMatch dbpedia:Loir-et-Cher .
+
+ns1:FR246
+    skos:closeMatch dbpedia:Loiret .
+
+ns1:FR25
+    skos:closeMatch dbpedia:Lower_Normandy .
+
+ns1:FR251
+    skos:closeMatch dbpedia:Calvados .
+
+ns1:FR252
+    skos:closeMatch dbpedia:Manche .
+
+ns1:FR253
+    skos:closeMatch dbpedia:Orne .
+
+ns1:FR26
+    skos:closeMatch dbpedia:Burgundy .
+
+ns1:FR261
+    skos:closeMatch <http://dbpedia.org/resource/Côte-d'Or> .
+
+ns1:FR262
+    skos:closeMatch dbpedia:Nièvre .
+
+ns1:FR263
+    skos:closeMatch dbpedia:Saône-et-Loire .
+
+ns1:FR264
+    skos:closeMatch dbpedia:Yonne .
+
+ns1:FR302
+    skos:closeMatch dbpedia:Pas-de-Calais .
+
+ns1:FR411
+    skos:closeMatch dbpedia:Meurthe-et-Moselle .
+
+ns1:FR412
+    skos:closeMatch <http://dbpedia.org/resource/Meuse_(department)> .
+
+ns1:FR413
+    skos:closeMatch dbpedia:Moselle .
+
+ns1:FR414
+    skos:closeMatch dbpedia:Vosges .
+
+ns1:FR42
+    skos:closeMatch dbpedia:Alsace .
+
+ns1:FR421
+    skos:closeMatch dbpedia:Bas-Rhin .
+
+ns1:FR422
+    skos:closeMatch dbpedia:Haut-Rhin .
+
+ns1:FR43
+    skos:closeMatch dbpedia:Franche-Comté .
+
+ns1:FR431
+    skos:closeMatch dbpedia:Doubs .
+
+ns1:FR433
+    skos:closeMatch dbpedia:Haute-Saône .
+
+ns1:FR434
+    skos:closeMatch dbpedia:Territoire_de_Belfort .
+
+ns1:FR51
+    skos:closeMatch dbpedia:Pays_de_la_Loire .
+
+ns1:FR511
+    skos:closeMatch dbpedia:Loire-Atlantique .
+
+ns1:FR512
+    skos:closeMatch dbpedia:Maine-et-Loire .
+
+ns1:FR513
+    skos:closeMatch dbpedia:Mayenne .
+
+ns1:FR514
+    skos:closeMatch dbpedia:Sarthe .
+
+ns1:FR515
+    skos:closeMatch dbpedia:Vendée .
+
+ns1:FR521
+    skos:closeMatch <http://dbpedia.org/resource/Côtes-d'Armor> .
+
+ns1:FR522
+    skos:closeMatch dbpedia:Finistère .
+
+ns1:FR523
+    skos:closeMatch dbpedia:Ille-et-Vilaine .
+
+ns1:FR524
+    skos:closeMatch dbpedia:Morbihan .
+
+ns1:FR53
+    skos:closeMatch dbpedia:Poitou-Charentes .
+
+ns1:FR531
+    skos:closeMatch dbpedia:Charente .
+
+ns1:FR532
+    skos:closeMatch dbpedia:Charente-Maritime .
+
+ns1:FR533
+    skos:closeMatch dbpedia:Deux-Sèvres .
+
+ns1:FR534
+    skos:closeMatch dbpedia:Vienne .
+
+ns1:FR61
+    skos:closeMatch dbpedia:Aquitaine .
+
+ns1:FR611
+    skos:closeMatch dbpedia:Dordogne .
+
+ns1:FR612
+    skos:closeMatch dbpedia:Gironde .
+
+ns1:FR614
+    skos:closeMatch dbpedia:Lot-et-Garonne .
+
+ns1:FR615
+    skos:closeMatch dbpedia:Pyrénées-Atlantiques .
+
+ns1:FR62
+    skos:closeMatch dbpedia:Midi-Pyrénées .
+
+ns1:FR621
+    skos:closeMatch dbpedia:Ariège .
+
+ns1:FR622
+    skos:closeMatch dbpedia:Aveyron .
+
+ns1:FR623
+    skos:closeMatch dbpedia:Haute-Garonne .
+
+ns1:FR624
+    skos:closeMatch dbpedia:Gers .
+
+ns1:FR626
+    skos:closeMatch dbpedia:Hautes-Pyrénées .
+
+ns1:FR628
+    skos:closeMatch dbpedia:Tarn-et-Garonne .
+
+ns1:FR63
+    skos:closeMatch dbpedia:Limousin .
+
+ns1:FR631
+    skos:closeMatch dbpedia:Corrèze .
+
+ns1:FR632
+    skos:closeMatch dbpedia:Creuse .
+
+ns1:FR633
+    skos:closeMatch dbpedia:Haute-Vienne .
+
+ns1:FR71
+    skos:closeMatch dbpedia:Rhône-Alpes .
+
+ns1:FR711
+    skos:closeMatch dbpedia:Ain .
+
+ns1:FR712
+    skos:closeMatch dbpedia:Ardèche .
+
+ns1:FR713
+    skos:closeMatch dbpedia:Drôme .
+
+ns1:FR714
+    skos:closeMatch dbpedia:Isère .
+
+ns1:FR715
+    skos:closeMatch dbpedia:Loire .
+
+ns1:FR716
+    skos:closeMatch dbpedia:Rhône .
+
+ns1:FR717
+    skos:closeMatch dbpedia:Savoie .
+
+ns1:FR718
+    skos:closeMatch dbpedia:Haute-Savoie .
+
+ns1:FR721
+    skos:closeMatch dbpedia:Allier .
+
+ns1:FR722
+    skos:closeMatch dbpedia:Cantal .
+
+ns1:FR723
+    skos:closeMatch dbpedia:Haute-Loire .
+
+ns1:FR724
+    skos:closeMatch dbpedia:Puy-de-Dôme .
+
+ns1:FR8
+    skos:closeMatch dbpedia:Méditerranée .
+
+ns1:FR81
+    skos:closeMatch dbpedia:Languedoc-Roussillon .
+
+ns1:FR811
+    skos:closeMatch dbpedia:Aude .
+
+ns1:FR812
+    skos:closeMatch dbpedia:Gard .
+
+ns1:FR813
+    skos:closeMatch dbpedia:Hérault .
+
+ns1:FR814
+    skos:closeMatch dbpedia:Lozère .
+
+ns1:FR815
+    skos:closeMatch dbpedia:Pyrénées-Orientales .
+
+ns1:FR82
+    skos:closeMatch <http://dbpedia.org/resource/Provence-Alpes-Côte_d'Azur> .
+
+ns1:FR821
+    skos:closeMatch dbpedia:Alpes-de-Haute-Provence .
+
+ns1:FR822
+    skos:closeMatch dbpedia:Hautes-Alpes .
+
+ns1:FR823
+    skos:closeMatch dbpedia:Alpes-Maritimes .
+
+ns1:FR824
+    skos:closeMatch dbpedia:Bouches-du-Rhône .
+
+ns1:FR826
+    skos:closeMatch dbpedia:Vaucluse .
+
+ns1:FR83
+    skos:closeMatch dbpedia:Corsica .
+
+ns1:FR831
+    skos:closeMatch dbpedia:Corse-du-Sud .
+
+ns1:FR832
+    skos:closeMatch dbpedia:Haute-Corse .
+
+ns1:FRA
+    skos:closeMatch dbpedia:Overseas_department .
+
+ns1:FR_CAP
+    skos:closeMatch dbpedia:Paris .
+
+ns1:HR03
+    skos:closeMatch dbpedia:Adriatic_Croatia .
+
+ns1:HR031
+    skos:closeMatch dbpedia:Primorje-Gorski_Kotar_County .
+
+ns1:HR032
+    skos:closeMatch dbpedia:Lika-Senj_County .
+
+ns1:HR033
+    skos:closeMatch dbpedia:Zadar_County .
+
+ns1:HR034
+    skos:closeMatch <http://dbpedia.org/resource/Šibenik-Knin_County> .
+
+ns1:HR035
+    skos:closeMatch dbpedia:Split-Dalmatia_County .
+
+ns1:HR036
+    skos:closeMatch dbpedia:Istria_County .
+
+ns1:HR037
+    skos:closeMatch dbpedia:Dubrovnik-Neretva_County .
+
+ns1:HR04
+    skos:closeMatch dbpedia:Continental_Croatia .
+
+ns1:HR042
+    skos:closeMatch dbpedia:Zagreb_County .
+
+ns1:HR043
+    skos:closeMatch dbpedia:Krapina-Zagorje_County .
+
+ns1:HR044
+    skos:closeMatch dbpedia:Varaždin_County .
+
+ns1:HR045
+    skos:closeMatch dbpedia:Koprivnica-Križevci_County .
+
+ns1:HR046
+    skos:closeMatch dbpedia:Međimurje_County .
+
+ns1:HR047
+    skos:closeMatch dbpedia:Bjelovar-Bilogora_County .
+
+ns1:HR048
+    skos:closeMatch dbpedia:Virovitica-Podravina_County .
+
+ns1:HR049
+    skos:closeMatch dbpedia:Požega-Slavonia_County .
+
+ns1:HR04A
+    skos:closeMatch dbpedia:Brod-Posavina_County .
+
+ns1:HR04B
+    skos:closeMatch dbpedia:Osijek-Baranja_County .
+
+ns1:HR04C
+    skos:closeMatch dbpedia:Vukovar-Srijem_County .
+
+ns1:HR04D
+    skos:closeMatch dbpedia:Karlovac_County .
+
+ns1:HR04E
+    skos:closeMatch dbpedia:Sisak-Moslavina_County .
+
+ns1:HR_CAP
+    skos:closeMatch dbpedia:Zagreb .
+
+ns1:HU
+    skos:closeMatch dbpedia:Hungary .
+
+ns1:HU2
+    skos:closeMatch dbpedia:Transdanubia .
+
+ns1:HU21
+    skos:closeMatch dbpedia:Central_Transdanubia .
+
+ns1:HU211
+    skos:closeMatch dbpedia:Fejér_County .
+
+ns1:HU212
+    skos:closeMatch dbpedia:Komárom-Esztergom_County .
+
+ns1:HU213
+    skos:closeMatch dbpedia:Veszprém .
+
+ns1:HU221
+    skos:closeMatch dbpedia:Győr-Moson-Sopron_County .
+
+ns1:HU222
+    skos:closeMatch dbpedia:Vas_County .
+
+ns1:HU31
+    skos:closeMatch dbpedia:Northern_Hungary .
+
+ns1:HU311
+    skos:closeMatch dbpedia:Borsod-Abaúj-Zemplén_County .
+
+ns1:HU312
+    skos:closeMatch dbpedia:Heves .
+
+ns1:HU313
+    skos:closeMatch dbpedia:Nógrád .
+
+ns1:HU32
+    skos:closeMatch dbpedia:Northern_Great_Plain .
+
+ns1:HU321
+    skos:closeMatch dbpedia:Hajdú-Bihar_County .
+
+ns1:HU322
+    skos:closeMatch dbpedia:Jász-Nagykun-Szolnok_County .
+
+ns1:HU323
+    skos:closeMatch dbpedia:Szabolcs-Szatmár-Bereg_County .
+
+ns1:HU332
+    skos:closeMatch dbpedia:Békés .
+
+ns1:HU333
+    skos:closeMatch dbpedia:Csongrád .
+
+ns1:HU_CAP
+    skos:closeMatch dbpedia:Budapest .
+
+ns1:IE
+    skos:closeMatch dbpedia:Ireland .
+
+ns1:IE011
+    skos:closeMatch dbpedia:Border .
+
+ns1:IE01101
+    skos:closeMatch dbpedia:Cavan .
+
+ns1:IE01102
+    skos:closeMatch dbpedia:Donegal .
+
+ns1:IE01105
+    skos:closeMatch dbpedia:Monaghan .
+
+ns1:IE01106
+    skos:closeMatch dbpedia:Sligo .
+
+ns1:IE01201
+    skos:closeMatch dbpedia:County_Laois .
+
+ns1:IE01202
+    skos:closeMatch dbpedia:Longford .
+
+ns1:IE01203
+    skos:closeMatch dbpedia:County_Offaly .
+
+ns1:IE01204
+    skos:closeMatch dbpedia:County_Westmeath .
+
+ns1:IE013
+    skos:closeMatch dbpedia:West .
+
+ns1:IE01301_01302
+    skos:closeMatch dbpedia:Galway .
+
+ns1:IE01304
+    skos:closeMatch dbpedia:Roscommon .
+
+ns1:IE02201
+    skos:closeMatch dbpedia:Kildare .
+
+ns1:IE02203
+    skos:closeMatch dbpedia:Wicklow .
+
+ns1:IE023
+    skos:closeMatch dbpedia:Midwestern_United_States .
+
+ns1:IE02302_02303
+    skos:closeMatch dbpedia:Limerick .
+
+ns1:IE02304
+    skos:closeMatch dbpedia:North_Tipperary .
+
+ns1:IE02401
+    skos:closeMatch dbpedia:Carlow .
+
+ns1:IE02402
+    skos:closeMatch dbpedia:Kilkenny .
+
+ns1:IE02403
+    skos:closeMatch dbpedia:South_Tipperary .
+
+ns1:IE02404_02405
+    skos:closeMatch dbpedia:Waterford .
+
+ns1:IE02406
+    skos:closeMatch dbpedia:Wexford .
+
+ns1:IE_CAP
+    skos:closeMatch dbpedia:Dublin .
+
+ns1:IT
+    skos:closeMatch dbpedia:Italy .
+
+ns1:ITC1
+    skos:closeMatch dbpedia:Piedmont .
+
+ns1:ITC11
+    skos:closeMatch dbpedia:Turin .
+
+ns1:ITC12
+    skos:closeMatch dbpedia:Vercelli .
+
+ns1:ITC13
+    skos:closeMatch dbpedia:Biella .
+
+ns1:ITC14
+    skos:closeMatch dbpedia:Province_of_Verbano-Cusio-Ossola .
+
+ns1:ITC15
+    skos:closeMatch dbpedia:Novara .
+
+ns1:ITC16
+    skos:closeMatch dbpedia:Cuneo .
+
+ns1:ITC17
+    skos:closeMatch dbpedia:Asti .
+
+ns1:ITC18
+    skos:closeMatch dbpedia:Alessandria .
+
+ns1:ITC3
+    skos:closeMatch dbpedia:Liguria .
+
+ns1:ITC31
+    skos:closeMatch dbpedia:Imperia .
+
+ns1:ITC32
+    skos:closeMatch dbpedia:Savona .
+
+ns1:ITC33
+    skos:closeMatch dbpedia:Genoa .
+
+ns1:ITC34
+    skos:closeMatch dbpedia:La_Spezia .
+
+ns1:ITC4
+    skos:closeMatch dbpedia:Lombardy .
+
+ns1:ITC42
+    skos:closeMatch dbpedia:Como .
+
+ns1:ITC43
+    skos:closeMatch dbpedia:Lecco .
+
+ns1:ITC44
+    skos:closeMatch dbpedia:Sondrio .
+
+ns1:ITC46
+    skos:closeMatch dbpedia:Bergamo .
+
+ns1:ITC47
+    skos:closeMatch dbpedia:Brescia .
+
+ns1:ITC48
+    skos:closeMatch dbpedia:Pavia .
+
+ns1:ITC4A
+    skos:closeMatch dbpedia:Cremona .
+
+ns1:ITC4B
+    skos:closeMatch dbpedia:Mantua .
+
+ns1:ITC4C
+    skos:closeMatch dbpedia:Milan .
+
+ns1:ITF1
+    skos:closeMatch dbpedia:Abruzzo .
+
+ns1:ITF11
+    skos:closeMatch <http://dbpedia.org/resource/L'Aquila> .
+
+ns1:ITF12
+    skos:closeMatch dbpedia:Teramo .
+
+ns1:ITF13
+    skos:closeMatch dbpedia:Pescara .
+
+ns1:ITF14
+    skos:closeMatch dbpedia:Chieti .
+
+ns1:ITF2
+    skos:closeMatch dbpedia:Molise .
+
+ns1:ITF21
+    skos:closeMatch dbpedia:Isernia .
+
+ns1:ITF22
+    skos:closeMatch dbpedia:Campobasso .
+
+ns1:ITF3
+    skos:closeMatch dbpedia:Campania .
+
+ns1:ITF31
+    skos:closeMatch dbpedia:Caserta .
+
+ns1:ITF32
+    skos:closeMatch dbpedia:Benevento .
+
+ns1:ITF33
+    skos:closeMatch dbpedia:Naples .
+
+ns1:ITF34
+    skos:closeMatch dbpedia:Avellino .
+
+ns1:ITF35
+    skos:closeMatch dbpedia:Salerno .
+
+ns1:ITF4
+    skos:closeMatch dbpedia:Apulia .
+
+ns1:ITF43
+    skos:closeMatch dbpedia:Taranto .
+
+ns1:ITF44
+    skos:closeMatch dbpedia:Brindisi .
+
+ns1:ITF45
+    skos:closeMatch dbpedia:Lecce .
+
+ns1:ITF46
+    skos:closeMatch dbpedia:Foggia .
+
+ns1:ITF47
+    skos:closeMatch dbpedia:Bari .
+
+ns1:ITF48
+    skos:closeMatch dbpedia:Province_of_Barletta-Andria-Trani .
+
+ns1:ITF5
+    skos:closeMatch dbpedia:Basilicata .
+
+ns1:ITF51
+    skos:closeMatch dbpedia:Potenza .
+
+ns1:ITF52
+    skos:closeMatch dbpedia:Matera .
+
+ns1:ITF6
+    skos:closeMatch dbpedia:Calabria .
+
+ns1:ITF61
+    skos:closeMatch dbpedia:Cosenza .
+
+ns1:ITF62
+    skos:closeMatch dbpedia:Crotone .
+
+ns1:ITF63
+    skos:closeMatch dbpedia:Catanzaro .
+
+ns1:ITF64
+    skos:closeMatch dbpedia:Vibo_Valentia .
+
+ns1:ITF65
+    skos:closeMatch dbpedia:Reggio_Calabria .
+
+ns1:ITG
+    skos:closeMatch dbpedia:Isole .
+
+ns1:ITG1
+    skos:closeMatch dbpedia:Sicily .
+
+ns1:ITG11
+    skos:closeMatch dbpedia:Trapani .
+
+ns1:ITG12
+    skos:closeMatch dbpedia:Palermo .
+
+ns1:ITG13
+    skos:closeMatch dbpedia:Messina .
+
+ns1:ITG14
+    skos:closeMatch dbpedia:Agrigento .
+
+ns1:ITG15
+    skos:closeMatch dbpedia:Caltanissetta .
+
+ns1:ITG16
+    skos:closeMatch dbpedia:Enna .
+
+ns1:ITG17
+    skos:closeMatch dbpedia:Catania .
+
+ns1:ITG2
+    skos:closeMatch dbpedia:Sardinia .
+
+ns1:ITG25
+    skos:closeMatch dbpedia:Sassari .
+
+ns1:ITG26
+    skos:closeMatch dbpedia:Nuoro .
+
+ns1:ITG27
+    skos:closeMatch dbpedia:Cagliari .
+
+ns1:ITG28
+    skos:closeMatch dbpedia:Oristano .
+
+ns1:ITG29
+    skos:closeMatch dbpedia:Province_of_Olbia-Tempio .
+
+ns1:ITG2A
+    skos:closeMatch dbpedia:Province_of_Ogliastra .
+
+ns1:ITG2B
+    skos:closeMatch dbpedia:Province_of_Medio_Campidano .
+
+ns1:ITG2C
+    skos:closeMatch dbpedia:Province_of_Carbonia-Iglesias .
+
+ns1:ITH10
+    skos:closeMatch dbpedia:Bolzano .
+
+ns1:ITH20
+    skos:closeMatch dbpedia:Trento .
+
+ns1:ITH3
+    skos:closeMatch dbpedia:Veneto .
+
+ns1:ITH31
+    skos:closeMatch dbpedia:Verona .
+
+ns1:ITH32
+    skos:closeMatch dbpedia:Vicenza .
+
+ns1:ITH33
+    skos:closeMatch dbpedia:Belluno .
+
+ns1:ITH34
+    skos:closeMatch dbpedia:Treviso .
+
+ns1:ITH35
+    skos:closeMatch dbpedia:Venice .
+
+ns1:ITH36
+    skos:closeMatch dbpedia:Padua .
+
+ns1:ITH37
+    skos:closeMatch dbpedia:Rovigo .
+
+ns1:ITH4
+    skos:closeMatch dbpedia:Friuli-Venezia_Giulia .
+
+ns1:ITH41
+    skos:closeMatch dbpedia:Pordenone .
+
+ns1:ITH42
+    skos:closeMatch dbpedia:Udine .
+
+ns1:ITH43
+    skos:closeMatch dbpedia:Gorizia .
+
+ns1:ITH44
+    skos:closeMatch dbpedia:Trieste .
+
+ns1:ITH5
+    skos:closeMatch dbpedia:Emilia-Romagna .
+
+ns1:ITH51
+    skos:closeMatch dbpedia:Piacenza .
+
+ns1:ITH52
+    skos:closeMatch dbpedia:Parma .
+
+ns1:ITH53
+    skos:closeMatch dbpedia:Reggio_Emilia .
+
+ns1:ITH54
+    skos:closeMatch dbpedia:Modena .
+
+ns1:ITH55
+    skos:closeMatch dbpedia:Bologna .
+
+ns1:ITH56
+    skos:closeMatch dbpedia:Ferrara .
+
+ns1:ITH57
+    skos:closeMatch dbpedia:Ravenna .
+
+ns1:ITH58
+    skos:closeMatch dbpedia:Province_of_Forlì-Cesena .
+
+ns1:ITH59
+    skos:closeMatch dbpedia:Rimini .
+
+ns1:ITI1
+    skos:closeMatch dbpedia:Tuscany .
+
+ns1:ITI11
+    skos:closeMatch dbpedia:Province_of_Massa_and_Carrara .
+
+ns1:ITI12
+    skos:closeMatch dbpedia:Lucca .
+
+ns1:ITI13
+    skos:closeMatch dbpedia:Pistoia .
+
+ns1:ITI14
+    skos:closeMatch dbpedia:Florence .
+
+ns1:ITI15
+    skos:closeMatch dbpedia:Prato .
+
+ns1:ITI16
+    skos:closeMatch dbpedia:Livorno .
+
+ns1:ITI17
+    skos:closeMatch dbpedia:Pisa .
+
+ns1:ITI18
+    skos:closeMatch dbpedia:Arezzo .
+
+ns1:ITI19
+    skos:closeMatch dbpedia:Siena .
+
+ns1:ITI1A
+    skos:closeMatch dbpedia:Grosseto .
+
+ns1:ITI2
+    skos:closeMatch dbpedia:Umbria .
+
+ns1:ITI21
+    skos:closeMatch dbpedia:Perugia .
+
+ns1:ITI22
+    skos:closeMatch dbpedia:Terni .
+
+ns1:ITI3
+    skos:closeMatch dbpedia:Marche .
+
+ns1:ITI31
+    skos:closeMatch dbpedia:Province_of_Pesaro_and_Urbino .
+
+ns1:ITI32
+    skos:closeMatch dbpedia:Ancona .
+
+ns1:ITI33
+    skos:closeMatch dbpedia:Macerata .
+
+ns1:ITI34
+    skos:closeMatch dbpedia:Ascoli_Piceno .
+
+ns1:ITI35
+    skos:closeMatch dbpedia:Fermo .
+
+ns1:ITI4
+    skos:closeMatch dbpedia:Lazio .
+
+ns1:ITI41
+    skos:closeMatch dbpedia:Viterbo .
+
+ns1:ITI42
+    skos:closeMatch dbpedia:Rieti .
+
+ns1:ITI44
+    skos:closeMatch dbpedia:Hispanic_and_Latino_Americans .
+
+ns1:ITI45
+    skos:closeMatch dbpedia:Frosinone .
+
+ns1:LT007
+    skos:closeMatch dbpedia:Tauragė_County .
+
+ns1:LT_CAP
+    skos:closeMatch dbpedia:Vilnius .
+
+ns1:LU_CAP
+    skos:closeMatch dbpedia:Luxembourg .
+
+ns1:LV005
+    skos:closeMatch dbpedia:Latgale .
+
+ns1:LV008
+    skos:closeMatch dbpedia:Vidzeme .
+
+ns1:LV009
+    skos:closeMatch dbpedia:Semigallia .
+
+ns1:LV_CAP
+    skos:closeMatch dbpedia:Riga .
+
+ns1:MT_CAP
+    skos:closeMatch dbpedia:Valletta .
+
+ns1:NL
+    skos:closeMatch dbpedia:Netherlands .
+
+ns1:NL11
+    skos:closeMatch dbpedia:Groningen .
+
+ns1:NL13
+    skos:closeMatch dbpedia:Drenthe .
+
+ns1:NL21
+    skos:closeMatch dbpedia:Overijssel .
+
+ns1:NL213
+    skos:closeMatch dbpedia:Twente .
+
+ns1:NL22
+    skos:closeMatch dbpedia:Gelderland .
+
+ns1:NL221
+    skos:closeMatch dbpedia:Veluwe .
+
+ns1:NL225
+    skos:closeMatch dbpedia:Achterhoek .
+
+ns1:NL32
+    skos:closeMatch dbpedia:North_Holland .
+
+ns1:NL325
+    skos:closeMatch dbpedia:Zaan .
+
+ns1:NL33
+    skos:closeMatch dbpedia:South_Holland .
+
+ns1:NL34
+    skos:closeMatch dbpedia:Zeeland .
+
+ns1:NL41
+    skos:closeMatch dbpedia:North_Brabant .
+
+ns1:NL_CAP
+    skos:closeMatch dbpedia:Amsterdam .
+
+ns1:PL
+    skos:closeMatch dbpedia:Poland .
+
+ns1:PL116
+    skos:closeMatch dbpedia:Sieradz_County .
+
+ns1:PL117
+    skos:closeMatch dbpedia:Skierniewice_County .
+
+ns1:PL12
+    skos:closeMatch dbpedia:Masovian_Voivodeship .
+
+ns1:PL12A
+    skos:closeMatch dbpedia:Warsaw_West_County .
+
+ns1:PL12C
+    skos:closeMatch dbpedia:Płock_County .
+
+ns1:PL12D
+    skos:closeMatch dbpedia:Ostrołęka_County .
+
+ns1:PL21
+    skos:closeMatch dbpedia:Lesser_Poland_Voivodeship .
+
+ns1:PL218
+    skos:closeMatch dbpedia:Nowy_Sącz_County .
+
+ns1:PL219
+    skos:closeMatch dbpedia:Nowy_Targ_County .
+
+ns1:PL21A
+    skos:closeMatch dbpedia:Oświęcim_County .
+
+ns1:PL22
+    skos:closeMatch dbpedia:Silesian_Voivodeship .
+
+ns1:PL224
+    skos:closeMatch dbpedia:Częstochowa_County .
+
+ns1:PL227
+    skos:closeMatch dbpedia:Rybnik_County .
+
+ns1:PL229
+    skos:closeMatch dbpedia:Gliwice_County .
+
+ns1:PL22C
+    skos:closeMatch dbpedia:Bieruń-Lędziny_County .
+
+ns1:PL31
+    skos:closeMatch dbpedia:Lublin_Voivodeship .
+
+ns1:PL311
+    skos:closeMatch dbpedia:Biała_Podlaska_County .
+
+ns1:PL314
+    skos:closeMatch dbpedia:Lublin_County .
+
+ns1:PL32
+    skos:closeMatch dbpedia:Subcarpathian_Voivodeship .
+
+ns1:PL323
+    skos:closeMatch dbpedia:Powiat_krośnieński .
+
+ns1:PL324
+    skos:closeMatch dbpedia:Przemyśl_County .
+
+ns1:PL325
+    skos:closeMatch dbpedia:Rzeszów_County .
+
+ns1:PL326
+    skos:closeMatch dbpedia:Tarnobrzeg_County .
+
+ns1:PL33
+    skos:closeMatch <http://dbpedia.org/resource/Świętokrzyskie_Voivodeship> .
+
+ns1:PL331
+    skos:closeMatch dbpedia:Kielce_County .
+
+ns1:PL34
+    skos:closeMatch dbpedia:Podlaskie_Voivodeship .
+
+ns1:PL343
+    skos:closeMatch dbpedia:Białystok_County .
+
+ns1:PL344
+    skos:closeMatch <http://dbpedia.org/resource/Łomża_County> .
+
+ns1:PL345
+    skos:closeMatch dbpedia:Suwałki_County .
+
+ns1:PL41
+    skos:closeMatch dbpedia:Greater_Poland_Voivodeship .
+
+ns1:PL411
+    skos:closeMatch dbpedia:Piła_County .
+
+ns1:PL414
+    skos:closeMatch dbpedia:Konin_County .
+
+ns1:PL416
+    skos:closeMatch dbpedia:Kalisz_County .
+
+ns1:PL417
+    skos:closeMatch dbpedia:House_of_Leszczyński .
+
+ns1:PL418
+    skos:closeMatch dbpedia:Poznań_County .
+
+ns1:PL42
+    skos:closeMatch dbpedia:West_Pomeranian_Voivodeship .
+
+ns1:PL426
+    skos:closeMatch dbpedia:Koszalin_County .
+
+ns1:PL428
+    skos:closeMatch dbpedia:Szczecin_Landscape_Park .
+
+ns1:PL43
+    skos:closeMatch dbpedia:Lubusz_Voivodeship .
+
+ns1:PL431
+    skos:closeMatch dbpedia:Gorzów_County .
+
+ns1:PL432
+    skos:closeMatch dbpedia:Zielona_Góra_County .
+
+ns1:PL51
+    skos:closeMatch dbpedia:Lower_Silesian_Voivodeship .
+
+ns1:PL515
+    skos:closeMatch dbpedia:Jelenia_Góra_County .
+
+ns1:PL517
+    skos:closeMatch dbpedia:Wałbrzych_County .
+
+ns1:PL518
+    skos:closeMatch dbpedia:Wrocław_County .
+
+ns1:PL52
+    skos:closeMatch dbpedia:Opole_Voivodeship .
+
+ns1:PL523
+    skos:closeMatch dbpedia:Nysa_County .
+
+ns1:PL61
+    skos:closeMatch dbpedia:Kuyavian-Pomeranian_Voivodeship .
+
+ns1:PL616
+    skos:closeMatch dbpedia:Grudziądz_County .
+
+ns1:PL617
+    skos:closeMatch dbpedia:Inowrocław_County .
+
+ns1:PL618
+    skos:closeMatch <http://dbpedia.org/resource/Świecie_County> .
+
+ns1:PL619
+    skos:closeMatch dbpedia:Włocławek_County .
+
+ns1:PL62
+    skos:closeMatch dbpedia:Warmian-Masurian_Voivodeship .
+
+ns1:PL621
+    skos:closeMatch dbpedia:Elbląg_County .
+
+ns1:PL622
+    skos:closeMatch dbpedia:Olsztyn_County .
+
+ns1:PL623
+    skos:closeMatch dbpedia:Ełk_County .
+
+ns1:PL63
+    skos:closeMatch dbpedia:Pomeranian_Voivodeship .
+
+ns1:PL633
+    skos:closeMatch dbpedia:Tricity_Landscape_Park .
+
+ns1:PL634
+    skos:closeMatch dbpedia:Gdańsk_County .
+
+ns1:PL636
+    skos:closeMatch dbpedia:Słupsk_County .
+
+ns1:PL637
+    skos:closeMatch dbpedia:Chojnice_County .
+
+ns1:PL638
+    skos:closeMatch dbpedia:Starogard_County .
+
+ns1:PL_CAP
+    skos:closeMatch dbpedia:Warsaw .
+
+ns1:PT
+    skos:closeMatch dbpedia:Portugal .
+
+ns1:PT1
+    skos:closeMatch <http://dbpedia.org/resource/Continente_(Supermarket)> .
+
+ns1:PT11
+    skos:closeMatch dbpedia:Norte .
+
+ns1:PT111
+    skos:closeMatch dbpedia:Alto_Minho .
+
+ns1:PT119
+    skos:closeMatch dbpedia:Ave .
+
+ns1:PT11A
+    skos:closeMatch dbpedia:Metropolitan_Area_of_Porto .
+
+ns1:PT11B
+    skos:closeMatch dbpedia:Alto_Tâmega .
+
+ns1:PT11C
+    skos:closeMatch dbpedia:Tâmega_e_Sousa .
+
+ns1:PT11D
+    skos:closeMatch dbpedia:Douro .
+
+ns1:PT11E
+    skos:closeMatch dbpedia:Terras_de_Trás-os-Montes .
+
+ns1:PT16D
+    skos:closeMatch dbpedia:Região_de_Aveiro .
+
+ns1:PT16E
+    skos:closeMatch dbpedia:Região_de_Coimbra .
+
+ns1:PT16F
+    skos:closeMatch dbpedia:Região_de_Leiria .
+
+ns1:PT16G
+    skos:closeMatch dbpedia:Viseu_Dão_Lafões .
+
+ns1:PT16I
+    skos:closeMatch dbpedia:Médio_Tejo .
+
+ns1:PT16J
+    skos:closeMatch dbpedia:Beiras_e_Serra_da_Estrela .
+
+ns1:PT18
+    skos:closeMatch dbpedia:Alentejo .
+
+ns1:PT181
+    skos:closeMatch dbpedia:Alentejo_Litoral .
+
+ns1:PT185
+    skos:closeMatch dbpedia:Lezíria_do_Tejo .
+
+ns1:PT187
+    skos:closeMatch dbpedia:Alentejo_Central .
+
+ns1:PT_CAP
+    skos:closeMatch dbpedia:Lisbon .
+
+ns1:RO
+    skos:closeMatch dbpedia:Romania .
+
+ns1:RO11
+    skos:closeMatch <http://dbpedia.org/resource/Nord-Vest_(development_region)> .
+
+ns1:RO112
+    skos:closeMatch <http://dbpedia.org/resource/Bistrița-Năsăud_County> .
+
+ns1:RO113
+    skos:closeMatch dbpedia:Cluj-Napoca .
+
+ns1:RO114
+    skos:closeMatch <http://dbpedia.org/resource/Maramureș> .
+
+ns1:RO115
+    skos:closeMatch dbpedia:Satu_Mare .
+
+ns1:RO116
+    skos:closeMatch dbpedia:Sălaj .
+
+ns1:RO121
+    skos:closeMatch dbpedia:Alba .
+
+ns1:RO122
+    skos:closeMatch <http://dbpedia.org/resource/Brașov> .
+
+ns1:RO123
+    skos:closeMatch dbpedia:Covasna .
+
+ns1:RO124
+    skos:closeMatch dbpedia:Harghita_County .
+
+ns1:RO125
+    skos:closeMatch <http://dbpedia.org/resource/Mureș_County> .
+
+ns1:RO126
+    skos:closeMatch dbpedia:Sibiu .
+
+ns1:RO211
+    skos:closeMatch dbpedia:Bacău .
+
+ns1:RO212
+    skos:closeMatch <http://dbpedia.org/resource/Botoșani> .
+
+ns1:RO213
+    skos:closeMatch <http://dbpedia.org/resource/Iași> .
+
+ns1:RO214
+    skos:closeMatch <http://dbpedia.org/resource/Neamț_County> .
+
+ns1:RO215
+    skos:closeMatch dbpedia:Suceava .
+
+ns1:RO216
+    skos:closeMatch dbpedia:Vaslui .
+
+ns1:RO221
+    skos:closeMatch dbpedia:Brăila .
+
+ns1:RO223
+    skos:closeMatch <http://dbpedia.org/resource/Constanța> .
+
+ns1:RO224
+    skos:closeMatch <http://dbpedia.org/resource/Galați> .
+
+ns1:RO225
+    skos:closeMatch dbpedia:Tulcea .
+
+ns1:RO311
+    skos:closeMatch dbpedia:Arges .
+
+ns1:RO313
+    skos:closeMatch <http://dbpedia.org/resource/Dâmbovița> .
+
+ns1:RO314
+    skos:closeMatch dbpedia:Giurgiu .
+
+ns1:RO315
+    skos:closeMatch <http://dbpedia.org/resource/Ialomița> .
+
+ns1:RO317
+    skos:closeMatch dbpedia:Teleorman_County .
+
+ns1:RO32
+    skos:closeMatch <http://dbpedia.org/resource/Bucharest-Ilfov_(development_region)> .
+
+ns1:RO322
+    skos:closeMatch dbpedia:Ilfov_County .
+
+ns1:RO41
+    skos:closeMatch <http://dbpedia.org/resource/Sud-Vest_(development_region)> .
+
+ns1:RO411
+    skos:closeMatch dbpedia:Dolj_County .
+
+ns1:RO412
+    skos:closeMatch dbpedia:Gorj_County .
+
+ns1:RO413
+    skos:closeMatch <http://dbpedia.org/resource/Mehedinți_County> .
+
+ns1:RO415
+    skos:closeMatch dbpedia:Vâlcea_County .
+
+ns1:RO42
+    skos:closeMatch dbpedia:Vest .
+
+ns1:RO422
+    skos:closeMatch <http://dbpedia.org/resource/Caraș-Severin_County> .
+
+ns1:RO423
+    skos:closeMatch dbpedia:Hunedoara .
+
+ns1:RO424
+    skos:closeMatch <http://dbpedia.org/resource/Timiș> .
+
+ns1:RO_CAP
+    skos:closeMatch dbpedia:Bucharest .
+
+ns1:SE
+    skos:closeMatch dbpedia:Sweden .
+
+ns1:SE110
+    skos:closeMatch dbpedia:Stockholm_County .
+
+ns1:SE12
+    skos:closeMatch dbpedia:East_Middle_Sweden .
+
+ns1:SE121
+    skos:closeMatch dbpedia:Uppsala_County .
+
+ns1:SE122
+    skos:closeMatch dbpedia:Södermanland_County .
+
+ns1:SE123
+    skos:closeMatch <http://dbpedia.org/resource/Östergötland_County> .
+
+ns1:SE124
+    skos:closeMatch <http://dbpedia.org/resource/Örebro_County> .
+
+ns1:SE125
+    skos:closeMatch dbpedia:Västmanland_County .
+
+ns1:SE21
+    skos:closeMatch dbpedia:Småland_and_the_islands .
+
+ns1:SE211
+    skos:closeMatch dbpedia:Jönköping_County .
+
+ns1:SE212
+    skos:closeMatch dbpedia:Kronoberg_County .
+
+ns1:SE213
+    skos:closeMatch dbpedia:Kalmar_County .
+
+ns1:SE214
+    skos:closeMatch dbpedia:Gotland_County .
+
+ns1:SE22
+    skos:closeMatch dbpedia:South_Sweden .
+
+ns1:SE221
+    skos:closeMatch dbpedia:Blekinge_County .
+
+ns1:SE224
+    skos:closeMatch dbpedia:Skåne_County .
+
+ns1:SE23
+    skos:closeMatch dbpedia:West_Sweden .
+
+ns1:SE231
+    skos:closeMatch dbpedia:Halland_County .
+
+ns1:SE232
+    skos:closeMatch dbpedia:Västra_Götaland_County .
+
+ns1:SE31
+    skos:closeMatch dbpedia:North_Middle_Sweden .
+
+ns1:SE311
+    skos:closeMatch dbpedia:Värmland_County .
+
+ns1:SE312
+    skos:closeMatch dbpedia:Dalarna_County .
+
+ns1:SE313
+    skos:closeMatch dbpedia:Gävleborg_County .
+
+ns1:SE32
+    skos:closeMatch dbpedia:Middle_Norrland .
+
+ns1:SE321
+    skos:closeMatch dbpedia:Västernorrland_County .
+
+ns1:SE322
+    skos:closeMatch dbpedia:Jämtland_County .
+
+ns1:SE33
+    skos:closeMatch dbpedia:Upper_Norrland .
+
+ns1:SE331
+    skos:closeMatch dbpedia:Västerbotten_County .
+
+ns1:SE332
+    skos:closeMatch dbpedia:Norrbotten_County .
+
+ns1:SE_CAP
+    skos:closeMatch dbpedia:Stockholm .
+
+ns1:SI03
+    skos:closeMatch dbpedia:Eastern_Slovenia .
+
+ns1:SI031
+    skos:closeMatch dbpedia:Mura_Statistical_Region .
+
+ns1:SI032
+    skos:closeMatch dbpedia:Drava_Statistical_Region .
+
+ns1:SI033
+    skos:closeMatch dbpedia:Koroška .
+
+ns1:SI034
+    skos:closeMatch dbpedia:Savinja_Statistical_Region .
+
+ns1:SI035
+    skos:closeMatch dbpedia:Central_Sava_Statistical_Region .
+
+ns1:SI037
+    skos:closeMatch dbpedia:Southeast_Slovenia_Statistical_Region .
+
+ns1:SI04
+    skos:closeMatch dbpedia:Western_Slovenia .
+
+ns1:SI041
+    skos:closeMatch dbpedia:Central_Slovenia_Statistical_Region .
+
+ns1:SI042
+    skos:closeMatch dbpedia:Upper_Carniola .
+
+ns1:SI043
+    skos:closeMatch dbpedia:Goriška .
+
+ns1:SI044
+    skos:closeMatch <http://dbpedia.org/resource/Coastal–Karst_Statistical_Region> .
+
+ns1:SI_CAP
+    skos:closeMatch dbpedia:Ljubljana .
+
+ns1:SK02
+    skos:closeMatch dbpedia:Western_Slovakia .
+
+ns1:SK021
+    skos:closeMatch dbpedia:Trnava_Region .
+
+ns1:SK023
+    skos:closeMatch dbpedia:Nitra_Region .
+
+ns1:SK03
+    skos:closeMatch dbpedia:Stredné_Slovensko .
+
+ns1:SK032
+    skos:closeMatch dbpedia:Banská_Bystrica_Region .
+
+ns1:SK04
+    skos:closeMatch dbpedia:Východné_Slovensko .
+
+ns1:SK_CAP
+    skos:closeMatch dbpedia:Bratislava .
+
+ns1:UK
+    skos:closeMatch dbpedia:United_Kingdom .
+
+ns1:UKC-L
+    skos:closeMatch dbpedia:England_and_Wales .
+
+ns1:UKC-M
+    skos:closeMatch dbpedia:Great_Britain .
+
+ns1:UKC13
+    skos:closeMatch dbpedia:Darlington .
+
+ns1:UKC21
+    skos:closeMatch dbpedia:Northumberland .
+
+ns1:UKC22
+    skos:closeMatch dbpedia:Tyneside .
+
+ns1:UKD3
+    skos:closeMatch dbpedia:Greater_Manchester .
+
+ns1:UKD33
+    skos:closeMatch dbpedia:Manchester .
+
+ns1:UKD4
+    skos:closeMatch dbpedia:Lancashire .
+
+ns1:UKD41
+    skos:closeMatch dbpedia:Blackburn_with_Darwen .
+
+ns1:UKD42
+    skos:closeMatch dbpedia:Blackpool .
+
+ns1:UKD44
+    skos:closeMatch <http://dbpedia.org/resource/Lancaster_and_Wyre_(UK_Parliament_constituency)> .
+
+ns1:UKD6
+    skos:closeMatch dbpedia:Cheshire .
+
+ns1:UKD61
+    skos:closeMatch dbpedia:Warrington .
+
+ns1:UKD62
+    skos:closeMatch dbpedia:Cheshire_East .
+
+ns1:UKD63
+    skos:closeMatch dbpedia:Cheshire_West_and_Chester .
+
+ns1:UKD7
+    skos:closeMatch dbpedia:Merseyside .
+
+ns1:UKD72
+    skos:closeMatch dbpedia:Liverpool .
+
+ns1:UKE
+    skos:closeMatch dbpedia:Yorkshire_and_the_Humber .
+
+ns1:UKE12
+    skos:closeMatch dbpedia:East_Riding_of_Yorkshire .
+
+ns1:UKE2
+    skos:closeMatch dbpedia:North_Yorkshire .
+
+ns1:UKE21
+    skos:closeMatch dbpedia:York .
+
+ns1:UKE3
+    skos:closeMatch dbpedia:South_Yorkshire .
+
+ns1:UKE32
+    skos:closeMatch dbpedia:Sheffield .
+
+ns1:UKE4
+    skos:closeMatch dbpedia:West_Yorkshire .
+
+ns1:UKE41
+    skos:closeMatch dbpedia:Bradford .
+
+ns1:UKE42
+    skos:closeMatch dbpedia:Leeds .
+
+ns1:UKE45
+    skos:closeMatch dbpedia:Wakefield .
+
+ns1:UKF11
+    skos:closeMatch dbpedia:Derby .
+
+ns1:UKF14
+    skos:closeMatch dbpedia:Nottingham .
+
+ns1:UKF15
+    skos:closeMatch <http://dbpedia.org/resource/North_Nottinghamshire_(UK_Parliament_constituency)> .
+
+ns1:UKF16
+    skos:closeMatch <http://dbpedia.org/resource/South_Nottinghamshire_(UK_Parliament_constituency)> .
+
+ns1:UKF21
+    skos:closeMatch dbpedia:Leicester .
+
+ns1:UKF24
+    skos:closeMatch dbpedia:West_Northamptonshire_Development_Corporation .
+
+ns1:UKF25
+    skos:closeMatch <http://dbpedia.org/resource/North_Northamptonshire_(UK_Parliament_constituency)> .
+
+ns1:UKG12
+    skos:closeMatch dbpedia:Worcestershire .
+
+ns1:UKG13
+    skos:closeMatch dbpedia:Warwickshire .
+
+ns1:UKG21
+    skos:closeMatch dbpedia:Telford_and_Wrekin .
+
+ns1:UKG23
+    skos:closeMatch dbpedia:Stoke-on-Trent .
+
+ns1:UKG31
+    skos:closeMatch dbpedia:Birmingham .
+
+ns1:UKG32
+    skos:closeMatch dbpedia:Solihull .
+
+ns1:UKG33
+    skos:closeMatch dbpedia:Coventry .
+
+ns1:UKG36
+    skos:closeMatch dbpedia:Dudley .
+
+ns1:UKG37
+    skos:closeMatch dbpedia:Sandwell .
+
+ns1:UKG38
+    skos:closeMatch dbpedia:Walsall .
+
+ns1:UKG39
+    skos:closeMatch dbpedia:Wolverhampton .
+
+ns1:UKH
+    skos:closeMatch dbpedia:East_of_England .
+
+ns1:UKH1
+    skos:closeMatch dbpedia:East_Anglia .
+
+ns1:UKH11
+    skos:closeMatch dbpedia:Peterborough .
+
+ns1:UKH14
+    skos:closeMatch dbpedia:Suffolk .
+
+ns1:UKH21
+    skos:closeMatch dbpedia:Luton .
+
+ns1:UKH23
+    skos:closeMatch dbpedia:Hertfordshire .
+
+ns1:UKH24
+    skos:closeMatch dbpedia:Bedford .
+
+ns1:UKH25
+    skos:closeMatch dbpedia:Central_Bedfordshire .
+
+ns1:UKH3
+    skos:closeMatch dbpedia:Essex .
+
+ns1:UKH31
+    skos:closeMatch dbpedia:Southend-on-Sea .
+
+ns1:UKH32
+    skos:closeMatch dbpedia:Thurrock .
+
+ns1:UKH35
+    skos:closeMatch dbpedia:West_Essex .
+
+ns1:UKI32
+    skos:closeMatch dbpedia:Westminster .
+
+ns1:UKI34
+    skos:closeMatch dbpedia:Wandsworth .
+
+ns1:UKI42
+    skos:closeMatch dbpedia:London_Borough_of_Tower_Hamlets .
+
+ns1:UKI45
+    skos:closeMatch dbpedia:Lambeth .
+
+ns1:UKI61
+    skos:closeMatch dbpedia:Bromley .
+
+ns1:UKI62
+    skos:closeMatch dbpedia:Croydon .
+
+ns1:UKI73
+    skos:closeMatch dbpedia:Ealing .
+
+ns1:UKJ11
+    skos:closeMatch dbpedia:Berkshire .
+
+ns1:UKJ12
+    skos:closeMatch dbpedia:Milton_Keynes .
+
+ns1:UKJ14
+    skos:closeMatch dbpedia:Oxfordshire .
+
+ns1:UKJ21
+    skos:closeMatch dbpedia:Brighton_and_Hove .
+
+ns1:UKJ25
+    skos:closeMatch <http://dbpedia.org/resource/West_Surrey_(UK_Parliament_constituency)> .
+
+ns1:UKJ26
+    skos:closeMatch <http://dbpedia.org/resource/East_Surrey_(UK_Parliament_constituency)> .
+
+ns1:UKJ31
+    skos:closeMatch dbpedia:Portsmouth .
+
+ns1:UKJ32
+    skos:closeMatch dbpedia:Southampton .
+
+ns1:UKJ34
+    skos:closeMatch dbpedia:Isle_of_Wight .
+
+ns1:UKJ35
+    skos:closeMatch dbpedia:South_Hampshire .
+
+ns1:UKJ4
+    skos:closeMatch dbpedia:Kent .
+
+ns1:UKJ41
+    skos:closeMatch dbpedia:Medway .
+
+ns1:UKJ44
+    skos:closeMatch dbpedia:East_Kent .
+
+ns1:UKJ46
+    skos:closeMatch dbpedia:West_Kent .
+
+ns1:UKK13
+    skos:closeMatch dbpedia:Gloucestershire .
+
+ns1:UKK14
+    skos:closeMatch dbpedia:Swindon .
+
+ns1:UKK23
+    skos:closeMatch dbpedia:Somerset .
+
+ns1:UKK4
+    skos:closeMatch dbpedia:Devon .
+
+ns1:UKK41
+    skos:closeMatch dbpedia:Plymouth .
+
+ns1:UKK42
+    skos:closeMatch dbpedia:Torbay .
+
+ns1:UKL
+    skos:closeMatch dbpedia:Wales .
+
+ns1:UKL11
+    skos:closeMatch dbpedia:Anglesey .
+
+ns1:UKL12
+    skos:closeMatch dbpedia:Gwynedd .
+
+ns1:UKL14
+    skos:closeMatch dbpedia:South_West_Wales .
+
+ns1:UKL18
+    skos:closeMatch dbpedia:Swansea .
+
+ns1:UKL2
+    skos:closeMatch dbpedia:East_Wales .
+
+ns1:UKL24
+    skos:closeMatch dbpedia:Powys .
+
+ns1:UKM
+    skos:closeMatch dbpedia:Scotland .
+
+ns1:UKM24
+    skos:closeMatch dbpedia:Scottish_Borders .
+
+ns1:UKM26
+    skos:closeMatch dbpedia:Falkirk .
+
+ns1:UKM28
+    skos:closeMatch dbpedia:West_Lothian .
+
+ns1:UKM32
+    skos:closeMatch dbpedia:Dumfries_and_Galloway .
+
+ns1:UKM34
+    skos:closeMatch dbpedia:Glasgow .
+
+ns1:UKM36
+    skos:closeMatch dbpedia:North_Lanarkshire .
+
+ns1:UKM37
+    skos:closeMatch dbpedia:South_Ayrshire .
+
+ns1:UKM38
+    skos:closeMatch dbpedia:South_Lanarkshire .
+
+ns1:UKM6
+    skos:closeMatch dbpedia:Highlands_and_Islands .
+
+ns1:UKM65
+    skos:closeMatch dbpedia:Orkney .
+
+ns1:UKM66
+    skos:closeMatch dbpedia:Shetland .
+
+ns1:UKN01
+    skos:closeMatch dbpedia:Belfast .
+
+ns1:UK_CAP
+    skos:closeMatch dbpedia:London .
+
+ns1:UK_DEL
+    skos:closeMatch dbpedia:Culham .
+
