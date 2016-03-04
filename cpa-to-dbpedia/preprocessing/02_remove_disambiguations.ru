@@ -16,5 +16,3 @@ WHERE {
   }
   ?s ?p ?o .
 }
-OFFSET 0
-LIMIT 10000

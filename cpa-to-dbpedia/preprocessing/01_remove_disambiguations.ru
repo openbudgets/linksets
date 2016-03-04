@@ -23,8 +23,6 @@ WHERE {
         ORDER BY ?s
       }
     }
-    OFFSET 0
-    LIMIT 10000
   }
   GRAPH <http://dbpedia.org> {
     ?s ?p ?o .
