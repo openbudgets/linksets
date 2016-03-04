@@ -1,0 +1,9 @@
+PREFIX lgdo: <http://linkedgeodata.org/ontology/>
+
+CONSTRUCT {
+  ?s lgdo:ref%3ANUTS ?nuts .
+}
+FROM <http://linkedgeodata.org>
+WHERE {
+  ?s lgdo:ref%3ANUTS ?nuts .
+}
