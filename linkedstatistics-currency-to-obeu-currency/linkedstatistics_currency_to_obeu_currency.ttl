@@ -1,0 +1,314 @@
+@prefix : <http://ontologycentral.com/2009/01/eurostat/ns#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix foaf: <http://xmls.com/foaf/0.1/> .
+
+<http://eurostat.linked-statistics.org/dic/currency#AED> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/AED> .
+
+<http://eurostat.linked-statistics.org/dic/currency#AFN> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/AFN> .
+
+<http://eurostat.linked-statistics.org/dic/currency#ALL> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/ALL> .
+
+<http://eurostat.linked-statistics.org/dic/currency#AMD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/AMD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#ANG> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/ANG> .
+
+<http://eurostat.linked-statistics.org/dic/currency#AOA> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/AOA> .
+
+<http://eurostat.linked-statistics.org/dic/currency#ARS> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/ARS> .
+
+<http://eurostat.linked-statistics.org/dic/currency#AUD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/AUD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#AWG> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/AWG> .
+
+<http://eurostat.linked-statistics.org/dic/currency#AZN> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/AZN> .
+
+<http://eurostat.linked-statistics.org/dic/currency#BAM> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/BAM> .
+
+<http://eurostat.linked-statistics.org/dic/currency#BDT> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/BDT> .
+
+<http://eurostat.linked-statistics.org/dic/currency#BGN> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/BGN> .
+
+<http://eurostat.linked-statistics.org/dic/currency#BHD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/BHD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#BIF> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/BIF> .
+
+<http://eurostat.linked-statistics.org/dic/currency#BMD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/BMD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#BND> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/BND> .
+
+<http://eurostat.linked-statistics.org/dic/currency#BOB> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/BOB> .
+
+<http://eurostat.linked-statistics.org/dic/currency#BRL> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/BRL> .
+
+<http://eurostat.linked-statistics.org/dic/currency#BSD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/BSD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#BTN> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/BTN> .
+
+<http://eurostat.linked-statistics.org/dic/currency#BWP> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/BWP> .
+
+<http://eurostat.linked-statistics.org/dic/currency#BYR> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/BYR> .
+
+<http://eurostat.linked-statistics.org/dic/currency#BZD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/BZD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#CAD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/CAD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#CDF> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/CDF> .
+
+<http://eurostat.linked-statistics.org/dic/currency#CHF> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/CHF> .
+
+<http://eurostat.linked-statistics.org/dic/currency#CLP> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/CLP> .
+
+<http://eurostat.linked-statistics.org/dic/currency#CNY> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/CNY> .
+
+<http://eurostat.linked-statistics.org/dic/currency#COP> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/COP> .
+
+<http://eurostat.linked-statistics.org/dic/currency#CRC> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/CRC> .
+
+<http://eurostat.linked-statistics.org/dic/currency#CUP> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/CUP> .
+
+<http://eurostat.linked-statistics.org/dic/currency#CVE> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/CVE> .
+
+<http://eurostat.linked-statistics.org/dic/currency#CZK> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/CZK> .
+
+<http://eurostat.linked-statistics.org/dic/currency#DJF> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/DJF> .
+
+<http://eurostat.linked-statistics.org/dic/currency#DKK> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/DKK> .
+
+<http://eurostat.linked-statistics.org/dic/currency#DOP> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/DOP> .
+
+<http://eurostat.linked-statistics.org/dic/currency#DZD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/DZD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#EGP> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/EGP> .
+
+<http://eurostat.linked-statistics.org/dic/currency#ERN> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/ERN> .
+
+<http://eurostat.linked-statistics.org/dic/currency#ETB> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/ETB> .
+
+<http://eurostat.linked-statistics.org/dic/currency#EUR> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/EUR> .
+
+<http://eurostat.linked-statistics.org/dic/currency#FJD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/FJD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#FKP> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/FKP> .
+
+<http://eurostat.linked-statistics.org/dic/currency#GBP> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/GBP> .
+
+<http://eurostat.linked-statistics.org/dic/currency#GEL> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/GEL> .
+
+<http://eurostat.linked-statistics.org/dic/currency#GHS> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/GHS> .
+
+<http://eurostat.linked-statistics.org/dic/currency#GIP> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/GIP> .
+
+<http://eurostat.linked-statistics.org/dic/currency#GMD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/GMD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#GNF> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/GNF> .
+
+<http://eurostat.linked-statistics.org/dic/currency#GTQ> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/GTQ> .
+
+<http://eurostat.linked-statistics.org/dic/currency#GYD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/GYD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#HKD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/HKD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#HNL> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/HNL> .
+
+<http://eurostat.linked-statistics.org/dic/currency#HRK> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/HRK> .
+
+<http://eurostat.linked-statistics.org/dic/currency#HTG> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/HTG> .
+
+<http://eurostat.linked-statistics.org/dic/currency#HUF> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/HUF> .
+
+<http://eurostat.linked-statistics.org/dic/currency#IDR> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/IDR> .
+
+<http://eurostat.linked-statistics.org/dic/currency#ILS> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/ILS> .
+
+<http://eurostat.linked-statistics.org/dic/currency#INR> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/INR> .
+
+<http://eurostat.linked-statistics.org/dic/currency#IQD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/IQD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#IRR> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/IRR> .
+
+<http://eurostat.linked-statistics.org/dic/currency#ISK> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/ISK> .
+
+<http://eurostat.linked-statistics.org/dic/currency#JMD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/JMD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#JOD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/JOD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#JPY> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/JPY> .
+
+<http://eurostat.linked-statistics.org/dic/currency#KES> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/KES> .
+
+<http://eurostat.linked-statistics.org/dic/currency#KGS> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/KGS> .
+
+<http://eurostat.linked-statistics.org/dic/currency#KHR> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/KHR> .
+
+<http://eurostat.linked-statistics.org/dic/currency#KMF> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/KMF> .
+
+<http://eurostat.linked-statistics.org/dic/currency#KPW> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/KPW> .
+
+<http://eurostat.linked-statistics.org/dic/currency#KRW> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/KRW> .
+
+<http://eurostat.linked-statistics.org/dic/currency#KWD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/KWD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#KYD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/KYD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#KZT> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/KZT> .
+
+<http://eurostat.linked-statistics.org/dic/currency#LAK> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/LAK> .
+
+<http://eurostat.linked-statistics.org/dic/currency#LBP> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/LBP> .
+
+<http://eurostat.linked-statistics.org/dic/currency#LKR> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/LKR> .
+
+<http://eurostat.linked-statistics.org/dic/currency#LRD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/LRD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#LSL> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/LSL> .
+
+<http://eurostat.linked-statistics.org/dic/currency#LYD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/LYD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#MAD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/MAD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#MDL> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/MDL> .
+
+<http://eurostat.linked-statistics.org/dic/currency#MGA> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/MGA> .
+
+<http://eurostat.linked-statistics.org/dic/currency#MKD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/MKD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#MMK> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/MMK> .
+
+<http://eurostat.linked-statistics.org/dic/currency#MNT> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/MNT> .
+
+<http://eurostat.linked-statistics.org/dic/currency#MOP> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/MOP> .
+
+<http://eurostat.linked-statistics.org/dic/currency#MRO> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/MRO> .
+
+<http://eurostat.linked-statistics.org/dic/currency#MUR> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/MUR> .
+
+<http://eurostat.linked-statistics.org/dic/currency#MVR> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/MVR> .
+
+<http://eurostat.linked-statistics.org/dic/currency#MWK> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/MWK> .
+
+<http://eurostat.linked-statistics.org/dic/currency#MXN> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/MXN> .
+
+<http://eurostat.linked-statistics.org/dic/currency#MYR> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/MYR> .
+
+<http://eurostat.linked-statistics.org/dic/currency#MZN> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/MZN> .
+
+<http://eurostat.linked-statistics.org/dic/currency#NAD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/NAD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#NGN> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/NGN> .
+
+<http://eurostat.linked-statistics.org/dic/currency#NIO> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/NIO> .
+
+<http://eurostat.linked-statistics.org/dic/currency#NOK> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/NOK> .
+
+<http://eurostat.linked-statistics.org/dic/currency#NPR> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/NPR> .
+
+<http://eurostat.linked-statistics.org/dic/currency#NZD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/NZD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#OMR> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/OMR> .
+
+<http://eurostat.linked-statistics.org/dic/currency#PAB> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/PAB> .
+
+<http://eurostat.linked-statistics.org/dic/currency#PEN> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/PEN> .
+
+<http://eurostat.linked-statistics.org/dic/currency#PGK> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/PGK> .
+
+<http://eurostat.linked-statistics.org/dic/currency#PHP> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/PHP> .
+
+<http://eurostat.linked-statistics.org/dic/currency#PKR> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/PKR> .
+
+<http://eurostat.linked-statistics.org/dic/currency#PLN> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/PLN> .
+
+<http://eurostat.linked-statistics.org/dic/currency#PYG> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/PYG> .
+
+<http://eurostat.linked-statistics.org/dic/currency#QAR> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/QAR> .
+
+<http://eurostat.linked-statistics.org/dic/currency#RON> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/RON> .
+
+<http://eurostat.linked-statistics.org/dic/currency#RSD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/RSD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#RUB> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/RUB> .
+
+<http://eurostat.linked-statistics.org/dic/currency#RWF> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/RWF> .
+
+<http://eurostat.linked-statistics.org/dic/currency#SAR> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/SAR> .
+
+<http://eurostat.linked-statistics.org/dic/currency#SBD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/SBD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#SCR> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/SCR> .
+
+<http://eurostat.linked-statistics.org/dic/currency#SDG> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/SDG> .
+
+<http://eurostat.linked-statistics.org/dic/currency#SEK> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/SEK> .
+
+<http://eurostat.linked-statistics.org/dic/currency#SGD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/SGD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#SHP> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/SHP> .
+
+<http://eurostat.linked-statistics.org/dic/currency#SLL> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/SLL> .
+
+<http://eurostat.linked-statistics.org/dic/currency#SOS> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/SOS> .
+
+<http://eurostat.linked-statistics.org/dic/currency#SRD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/SRD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#STD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/STD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#SVC> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/SVC> .
+
+<http://eurostat.linked-statistics.org/dic/currency#SYP> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/SYP> .
+
+<http://eurostat.linked-statistics.org/dic/currency#SZL> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/SZL> .
+
+<http://eurostat.linked-statistics.org/dic/currency#THB> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/THB> .
+
+<http://eurostat.linked-statistics.org/dic/currency#TJS> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/TJS> .
+
+<http://eurostat.linked-statistics.org/dic/currency#TMT> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/TMT> .
+
+<http://eurostat.linked-statistics.org/dic/currency#TND> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/TND> .
+
+<http://eurostat.linked-statistics.org/dic/currency#TOP> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/TOP> .
+
+<http://eurostat.linked-statistics.org/dic/currency#TRY> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/TRY> .
+
+<http://eurostat.linked-statistics.org/dic/currency#TTD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/TTD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#TZS> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/TZS> .
+
+<http://eurostat.linked-statistics.org/dic/currency#UAH> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/UAH> .
+
+<http://eurostat.linked-statistics.org/dic/currency#UGX> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/UGX> .
+
+<http://eurostat.linked-statistics.org/dic/currency#USD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/USD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#UYU> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/UYU> .
+
+<http://eurostat.linked-statistics.org/dic/currency#UZS> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/UZS> .
+
+<http://eurostat.linked-statistics.org/dic/currency#VEF> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/VEF> .
+
+<http://eurostat.linked-statistics.org/dic/currency#VND> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/VND> .
+
+<http://eurostat.linked-statistics.org/dic/currency#VUV> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/VUV> .
+
+<http://eurostat.linked-statistics.org/dic/currency#WST> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/WST> .
+
+<http://eurostat.linked-statistics.org/dic/currency#XAF> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/XAF> .
+
+<http://eurostat.linked-statistics.org/dic/currency#XCD> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/XCD> .
+
+<http://eurostat.linked-statistics.org/dic/currency#XDR> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/XDR> .
+
+<http://eurostat.linked-statistics.org/dic/currency#XOF> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/XOF> .
+
+<http://eurostat.linked-statistics.org/dic/currency#YER> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/YER> .
+
+<http://eurostat.linked-statistics.org/dic/currency#ZAR> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/ZAR> .
+
+<http://eurostat.linked-statistics.org/dic/currency#ZWL> skos:exactMatch <http://data.openbudgets.eu/codelist/currency/ZWL> .
